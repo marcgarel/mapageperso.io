@@ -1,5 +1,4 @@
 /* styles.css */
-
 /* Police moderne et lisible */
 :root {
   --font-main: 'Segoe UI', 'Roboto', 'Helvetica Neue', sans-serif;
@@ -11,11 +10,12 @@
   --color-secondary: #00acc1;  /* Bleu turquoise */
   --color-dark: #0d47a1;       /* Bleu profond */
   --color-light: #e1f5fe;      /* Bleu très clair */
-  --color-text: #333333;        /* Texte foncé */
-  --color-text-light: #fafafa;  /* Texte clair */
-  --color-accent: #ff9800;      /* Orange pour les call-to-action */
+  --color-text: #333333;       /* Texte foncé */
+  --color-text-light: #fafafa; /* Texte clair */
+  --color-accent: #ff9800;     /* Orange pour les call-to-action */
 }
 
+/* Base */
 body {
   font-family: var(--font-main);
   color: var(--color-text);
@@ -41,71 +41,29 @@ a:hover {
   color: var(--color-secondary);
 }
 
-/* Barre de navigation avec dégradé océanique */
+/* Barre de navigation avec dégradé et emojis */
 .navbar {
   background: linear-gradient(90deg,
-    rgba(144, 202, 249, 1) 0%,   /* Bleu clair (#90CAF9) */
-    rgba(41, 182, 246, 1) 50%,   /* Bleu moyen (#29B6F6) */
-    rgba(30, 136, 229, 1) 100%   /* Bleu turquoise (#1E88E5) */
+    rgba(144, 202, 249, 1) 0%,   /* Bleu clair */
+    rgba(41, 182, 246, 1) 50%,   /* Bleu moyen */
+    rgba(30, 136, 229, 1) 100%   /* Bleu turquoise */
   ) !important;
   padding: 1rem 2rem;
   box-shadow: 0 2px 15px rgba(0, 0, 0, 0.1);
-  transition: all 0.3s ease;
 }
 
-/* Effet de transparence légère au survol des liens */
-.navbar .navbar-nav .nav-link {
+.navbar .nav-link {
   color: white !important;
   font-family: var(--font-heading);
   font-weight: 500;
   margin: 0 0.75rem;
-  position: relative;
   transition: color 0.3s ease, transform 0.2s ease;
 }
 
-.navbar .navbar-nav .nav-link:hover {
-  color: rgba(255, 255, 255, 0.9) !important;
-  transform: translateY(-1px);
-}
-
-/* Icônes en surbrillance discrète */
-.navbar .nav-link::before {
-  margin-right: 0.5rem;
-  opacity: 0.9;
-  transition: opacity 0.3s ease;
-}
-
-.navbar .nav-link:hover::before {
-  opacity: 1;
-}
-
-/* Icônes pour chaque section */
-.navbar .nav-link[href*="blog"]::before {
-  content: "\f0f6"; /* Icône "blog" (Font Awesome: fa-solid fa-blog) */
-  font-family: "Font Awesome 6 Free";
-  font-weight: 900;
-  margin-right: 0.5rem;
-}
-
-.navbar .nav-link[href*="portfolio"]::before {
-  content: "\f0b1"; /* Icône "portfolio" (Font Awesome: fa-solid fa-briefcase) */
-  font-family: "Font Awesome 6 Free";
-  font-weight: 900;
-  margin-right: 0.5rem;
-}
-
-.navbar .nav-link[href*="recherche"]::before {
-  content: "\f0c3"; /* Icône "recherche" (Font Awesome: fa-solid fa-microscope) */
-  font-family: "Font Awesome 6 Free";
-  font-weight: 900;
-  margin-right: 0.5rem;
-}
-
-.navbar .nav-link[href*="publications"]::before {
-  content: "\f02d"; /* Icône "publications" (Font Awesome: fa-solid fa-book) */
-  font-family: "Font Awesome 6 Free";
-  font-weight: 900;
-  margin-right: 0.5rem;
+/* Espacement pour les emojis (Unicode) */
+.navbar .nav-link {
+  display: inline-flex;
+  align-items: center;
 }
 
 /* Pied de page */
@@ -175,7 +133,7 @@ a:hover {
   background-color: rgba(30, 136, 229, 0.1);
 }
 
-/* Boutons et call-to-action */
+/* Boutons */
 .btn {
   background-color: var(--color-accent);
   color: white;
@@ -188,7 +146,7 @@ a:hover {
 }
 
 .btn:hover {
-  background-color: darken(var(--color-accent), 10%);
+  background-color: #e68a00; /* Orange foncé au survol */
 }
 
 /* Code et blocs de code */
@@ -214,4 +172,19 @@ pre {
   .listing .grid-item {
     margin-bottom: 1.5rem;
   }
+}
+
+/* Style spécifique pour les emojis dans la navbar */
+.navbar .nav-link::before {
+  content: none; /* Désactive les pseudo-éléments inutiles */
+}
+
+/* Ajustement de la taille des emojis */
+.navbar .nav-link {
+  font-size: 1.1rem; /* Ajuste la taille pour les emojis et le texte */
+}
+
+/* Espacement entre l'emoji et le texte */
+.navbar .nav-link span.emoji {
+  margin-right: 0.5rem;
 }
