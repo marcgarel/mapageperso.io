@@ -1,8 +1,13 @@
 ---
 title: "Publications"
-listing:
-  contents: publications.yml
-  type: table
-  sort-ui: false
-  filter-ui: false
+format: html
 ---
+
+# Mes Publications
+
+<div style="display: none;">
+[@jacquet_barium_2020; @baumas_reconstructing_2023; @baumas_novel_2024; @fuchs_rupture-based_2022; @tanet_bacterial_2019; @garel_pressure-retaining_2019; @benavides_sinking_2022; @pradel_first_2013; @tamburini_effects_2009; @zhang_genomic_2016; @amrani_transcriptomics_2014; @severin_impact_2016; @la_riviere_localization_2016; @riou_biodegradation_2018; @michotey_situ_2020; @van_wambeke_spatial_2020; @michotey_situ_2020; @pradel_first_2013; @tamburini_effects_2009; @acquet_particulate_2020; @roumagnac_responses_2020 ;@baumas_mesopelagic_2021; @quemeneur_hydrostatic_2019; @khelaifia_desulfovibrio_2011; @smedile_variations_2015; @al_ali_luminous_2010; @boutrif_assimilation_2011; @cathalot_hydrothermal_2021; @tamburini_increasing_2021; @garel_ready--use_2020; @martini_bacteria_2016; @martini_effects_2013; @tamburini_distribution_2009; @tamburini_prokaryotic_2013; @garel_contrasting_2021; @fauvelle_organic_2021; @fenouil_adaptation_2023; @schmidt_aging_2025; @baumas_pressure-driven_2025; @le_coq_distinct_2026]
+</div>
+
+::: {#refs}
+:::

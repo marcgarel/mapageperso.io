@@ -31,3 +31,5 @@ format:
     theme: cosmo
     css: styles.css
     toc: true
+    bibliography: publications/publications.bib
+    cite-method: citeproc

@@ -103,34 +103,28 @@ a:hover {
   margin-bottom: 0.75rem;
 }
 
-/* Tableau des publications */
-.listing table {
-  width: 100%;
-  border-collapse: collapse;
-  margin: 2rem 0;
-  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+/* Style pour la liste des publications */
+.publications-list {
+  background-color: #f0f8ff;  /* Bleu pâle pour un thème océan */
+  padding: 20px;
   border-radius: 8px;
-  overflow: hidden;
+  margin: 20px 0;
 }
 
-.listing table th {
-  background-color: var(--color-primary);
-  color: white;
-  padding: 1rem;
-  text-align: left;
+.publications-list #refs {
+  list-style-type: none;
+  padding: 0;
 }
 
-.listing table td {
-  padding: 1rem;
-  border-bottom: 1px solid #eee;
+.publications-list #refs li {
+  margin-bottom: 15px;
+  padding-bottom: 15px;
+  border-bottom: 1px solid #d1e7f0;
+  font-family: 'Arial', sans-serif;  /* Typographie moderne */
 }
 
-.listing table tr:nth-child(even) {
-  background-color: var(--color-light);
-}
-
-.listing table tr:hover {
-  background-color: rgba(30, 136, 229, 0.1);
+.publications-list #refs li:last-child {
+  border-bottom: none;
 }
 
 /* Boutons */
