@@ -1,8 +1,8 @@
 ---
 title: "Blog"
 listing:
-  contents: posts
-  type: grid
+  contents: posts  # Doit correspondre au nom du dossier contenant les posts
+  type: grid      # ou "default", "table" selon tes préférences
   sort: "date desc"
   categories: true
 ---
