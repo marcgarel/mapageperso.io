@@ -20,7 +20,27 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 0em;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="../site_libs/quarto-nav/quarto-nav.js"></script>
@@ -30,8 +50,6 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../">
-<script src="../site_libs/quarto-listing/list.min.js"></script>
-<script src="../site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="../site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
@@ -69,65 +87,7 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-title','listing-authors','listing-date','listing-journal','listing-doi',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-title-sort'] },{ data: ['listing-date-sort'] }],
-      
-      searchColumns: ["listing-title","listing-authors","listing-date","listing-journal","listing-doi"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 <link rel="stylesheet" href="../styles.css">
 </head>
@@ -195,8 +155,14 @@ window.Quarto = {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#mes-publications" id="toc-mes-publications" class="nav-link active" data-scroll-target="#mes-publications">Mes Publications</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -220,81 +186,123 @@ window.Quarto = {
 </header>
 
 
+<section id="mes-publications" class="level1">
+<h1>Mes Publications</h1>
+<div style="display: none;">
+<p><span class="citation" data-cites="jacquet_barium_2020 baumas_reconstructing_2023 baumas_novel_2024 fuchs_rupture-based_2022 tanet_bacterial_2019 garel_pressure-retaining_2019 benavides_sinking_2022 pradel_first_2013 tamburini_effects_2009 zhang_genomic_2016 amrani_transcriptomics_2014 severin_impact_2016 la_riviere_localization_2016 riou_biodegradation_2018 michotey_situ_2020 van_wambeke_spatial_2020 michotey_situ_2020 pradel_first_2013 tamburini_effects_2009 acquet_particulate_2020 roumagnac_responses_2020 baumas_mesopelagic_2021 quemeneur_hydrostatic_2019 khelaifia_desulfovibrio_2011 smedile_variations_2015 al_ali_luminous_2010 boutrif_assimilation_2011 cathalot_hydrothermal_2021 tamburini_increasing_2021 garel_ready martini_bacteria_2016 martini_effects_2013 tamburini_distribution_2009 tamburini_prokaryotic_2013 garel_contrasting_2021 fauvelle_organic_2021 fenouil_adaptation_2023 schmidt_aging_2025 baumas_pressure-driven_2025 le_coq_distinct_2026">(<a href="#ref-jacquet_barium_2020" role="doc-biblioref">Jacquet et al. 2020</a>; <a href="#ref-baumas_reconstructing_2023" role="doc-biblioref">C. Baumas et al. 2023</a>, <a href="#ref-baumas_novel_2024" role="doc-biblioref">2024</a>; <a href="#ref-fuchs_rupture-based_2022" role="doc-biblioref">Fuchs et al. 2022</a>; <a href="#ref-tanet_bacterial_2019" role="doc-biblioref">Tanet et al. 2019</a>; <a href="#ref-garel_pressure-retaining_2019" role="doc-biblioref">Garel et al. 2019</a>; <a href="#ref-benavides_sinking_2022" role="doc-biblioref">Benavides et al. 2022</a>; <a href="#ref-pradel_first_2013" role="doc-biblioref">Pradel et al. 2013</a>, <a href="#ref-pradel_first_2013" role="doc-biblioref">2013</a>; <a href="#ref-tamburini_effects_2009" role="doc-biblioref">Tamburini, Goutx, et al. 2009</a>, <a href="#ref-tamburini_effects_2009" role="doc-biblioref">2009</a>; <a href="#ref-zhang_genomic_2016" role="doc-biblioref">Zhang et al. 2016</a>; <a href="#ref-amrani_transcriptomics_2014" role="doc-biblioref">Amrani et al. 2014</a>; <a href="#ref-severin_impact_2016" role="doc-biblioref">Severin et al. 2016</a>; <a href="#ref-la_riviere_localization_2016" role="doc-biblioref">La Rivière, Garel, and Bally 2016</a>; <a href="#ref-riou_biodegradation_2018" role="doc-biblioref">Riou et al. 2018</a>; <a href="#ref-michotey_situ_2020" role="doc-biblioref">Michotey et al. 2020</a>, <a href="#ref-michotey_situ_2020" role="doc-biblioref">2020</a>; <a href="#ref-van_wambeke_spatial_2020" role="doc-biblioref">Van Wambeke et al. 2020</a>; <a href="#ref-acquet_particulate_2020" role="doc-biblioref"><strong>acquet_particulate_2020?</strong></a>; <a href="#ref-roumagnac_responses_2020" role="doc-biblioref">Roumagnac et al. 2020</a>; <a href="#ref-baumas_mesopelagic_2021" role="doc-biblioref">C. M. J. Baumas et al. 2021</a>; <a href="#ref-quemeneur_hydrostatic_2019" role="doc-biblioref">Quéméneur et al. 2019</a>; <a href="#ref-khelaifia_desulfovibrio_2011" role="doc-biblioref">Khelaifia et al. 2011</a>; <a href="#ref-smedile_variations_2015" role="doc-biblioref">Smedile et al. 2015</a>; <a href="#ref-al_ali_luminous_2010" role="doc-biblioref">Al Ali et al. 2010</a>; <a href="#ref-boutrif_assimilation_2011" role="doc-biblioref">Boutrif et al. 2011</a>; <a href="#ref-cathalot_hydrothermal_2021" role="doc-biblioref">Cathalot et al. 2021</a>; <a href="#ref-tamburini_increasing_2021" role="doc-biblioref">Tamburini et al. 2021</a>; <a href="#ref-garel_ready" role="doc-biblioref"><strong>garel_ready?</strong></a>–use_2020; <a href="#ref-martini_bacteria_2016" role="doc-biblioref">S. Martini et al. 2016</a>; <a href="#ref-martini_effects_2013" role="doc-biblioref">Séverine Martini et al. 2013</a>; <a href="#ref-tamburini_distribution_2009" role="doc-biblioref">Tamburini, Garel, et al. 2009</a>; <a href="#ref-tamburini_prokaryotic_2013" role="doc-biblioref">Tamburini et al. 2013</a>; <a href="#ref-garel_contrasting_2021" role="doc-biblioref">Garel et al. 2021</a>; <a href="#ref-fauvelle_organic_2021" role="doc-biblioref">Fauvelle et al. 2021</a>; <a href="#ref-fenouil_adaptation_2023" role="doc-biblioref">Fenouil et al. 2023</a>; <a href="#ref-schmidt_aging_2025" role="doc-biblioref">Schmidt et al. 2025</a>; <a href="#ref-baumas_pressure-driven_2025" role="doc-biblioref">C. Baumas et al. 2025</a>; <a href="#ref-le_coq_distinct_2026" role="doc-biblioref">Le Coq et al. 2026</a>)</span></p>
+</div>
+<div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list">
+<div id="ref-al_ali_luminous_2010" class="csl-entry" role="listitem">
+Al Ali, Badr, Marc Garel, Philippe Cuny, Juan-Carlos Miquel, Tarik Toubal, Anne Robert, and Christian Tamburini. 2010. <span>“Luminous Bacteria in the Deep-Sea Waters Near the <span>ANTARES</span> Underwater Neutrino Telescope (Mediterranean Sea).”</span> <em>Chemistry and Ecology</em> 26 (1): 57–72. <a href="https://doi.org/10.1080/02757540903513766">https://doi.org/10.1080/02757540903513766</a>.
+</div>
+<div id="ref-amrani_transcriptomics_2014" class="csl-entry" role="listitem">
+Amrani, Amira, Aurélie Bergon, Hélène Holota, Christian Tamburini, Marc Garel, Bernard Ollivier, Jean Imbert, Alain Dolla, and Nathalie Pradel. 2014. <span>“Transcriptomics Reveal Several Gene Expression Patterns in the Piezophile Desulfovibrio Hydrothermalis in Response to Hydrostatic Pressure.”</span> <em><span>PLoS</span> <span>ONE</span></em> 9 (9). <a href="https://doi.org/10.1371/journal.pone.0106831">https://doi.org/10.1371/journal.pone.0106831</a>.
+</div>
+<div id="ref-baumas_mesopelagic_2021" class="csl-entry" role="listitem">
+Baumas, Chloé M. J., Frédéric A. C. Le Moigne, Marc Garel, Nagib Bhairy, Sophie Guasco, Virginie Riou, Fabrice Armougom, Hans-Peter Grossart, and Christian Tamburini. 2021. <span>“Mesopelagic Microbial Carbon Production Correlates with Diversity Across Different Marine Particle Fractions.”</span> <em>The <span>ISME</span> Journal</em>, January. <a href="https://doi.org/10.1038/s41396-020-00880-z">https://doi.org/10.1038/s41396-020-00880-z</a>.
+</div>
+<div id="ref-baumas_novel_2024" class="csl-entry" role="listitem">
+Baumas, Chloé, Fatima-Ezzahra Ababou, Marc Garel, Mina Bizic, Danny Ionescu, Arthur Puzenat, Frederic Le Moigne, Hans-Peter Grossart, and Christian Tamburini. 2024. <span>“A Novel Method to Sample Individual Marine Snow Particles for Downstream Molecular Analyses.”</span> <em>Limnology and Oceanography Methods</em>, January. <a href="https://doi.org/10.1002/lom3.10590">https://doi.org/10.1002/lom3.10590</a>.
+</div>
+<div id="ref-baumas_reconstructing_2023" class="csl-entry" role="listitem">
+Baumas, Chloé, Robin Fuchs, Marc Garel, Jean-Christophe Poggiale, Laurent Memery, Frederic Le Moigne, and Christian Tamburini. 2023. <span>“Reconstructing the Ocean’s Mesopelagic Zone Carbon Budget: Sensitivity and Estimation of Parameters Associated with Prokaryotic Remineralization.”</span> <em>Journal of Geophysical Research Atmospheres</em> 20 (October): 4165–82. <a href="https://doi.org/10.5194/bg-20-4165-2023">https://doi.org/10.5194/bg-20-4165-2023</a>.
+</div>
+<div id="ref-baumas_pressure-driven_2025" class="csl-entry" role="listitem">
+Baumas, Chloé, Danny Ionescu, Marc Garel, Hans-Peter Grossart, Christian Tamburini, and Mina Bizic. 2025. <em>Pressure-Driven Microbial and Viral Dynamics on Individual Sinking Particles: Implications for Carbon Cycling</em>. <a href="https://doi.org/10.31223/X5FJ2Q">https://doi.org/10.31223/X5FJ2Q</a>.
+</div>
+<div id="ref-benavides_sinking_2022" class="csl-entry" role="listitem">
+Benavides, Mar, Sophie Bonnet, Frédéric A. C. Le Moigne, Gabrielle Armin, Keisuke Inomura, Søren Hallstrøm, Lasse Riemann, et al. 2022. <span>“Sinking Trichodesmium Fixes Nitrogen in the Dark Ocean.”</span> <em>The <span>ISME</span> Journal</em>, July, 1–8. <a href="https://doi.org/10.1038/s41396-022-01289-6">https://doi.org/10.1038/s41396-022-01289-6</a>.
+</div>
+<div id="ref-boutrif_assimilation_2011" class="csl-entry" role="listitem">
+Boutrif, Mehdi, Marc Garel, Matthew T. Cottrell, and Christian Tamburini. 2011. <span>“Assimilation of Marine Extracellular Polymeric Substances by Deep-Sea Prokaryotes in the <span>NW</span> Mediterranean Sea.”</span> <em>Environmental Microbiology Reports</em> 3 (6): 705–9. <a href="https://doi.org/10.1111/j.1758-2229.2011.00285.x">https://doi.org/10.1111/j.1758-2229.2011.00285.x</a>.
+</div>
+<div id="ref-cathalot_hydrothermal_2021" class="csl-entry" role="listitem">
+Cathalot, Cécile, Erwan G. Roussel, Antoine Perhirin, Vanessa Creff, Jean-Pierre Donval, Vivien Guyader, Guillaume Roullet, et al. 2021. <span>“Hydrothermal Plumes as Hotspots for Deep-Ocean Heterotrophic Microbial Biomass Production.”</span> <em>Nature Communications</em> 12 (1): 6861. <a href="https://doi.org/10.1038/s41467-021-26877-6">https://doi.org/10.1038/s41467-021-26877-6</a>.
+</div>
+<div id="ref-fauvelle_organic_2021" class="csl-entry" role="listitem">
+Fauvelle, Vincent, Marc Garel, Christian Tamburini, David Nerini, Javier Castro-Jiménez, Natascha Schmidt, Andrea Paluselli, et al. 2021. <span>“Organic Additive Release from Plastic to Seawater Is Lower Under Deep-Sea Conditions.”</span> <em>Nature Communications</em> 12 (1): 4426. <a href="https://doi.org/10.1038/s41467-021-24738-w">https://doi.org/10.1038/s41467-021-24738-w</a>.
+</div>
+<div id="ref-fenouil_adaptation_2023" class="csl-entry" role="listitem">
+Fenouil, Romain, Nathalie Pradel, Hassiba Belahbib, Marie Roumagnac, Manon Bartoli, Wajdi Ben Hania, Yann Denis, et al. 2023. <span>“Adaptation Strategies to High Hydrostatic Pressures in Pseudothermotoga Species Revealed by Transcriptional Analyses.”</span> <em>Microorganisms</em> 11 (3): 773. <a href="https://doi.org/10.3390/microorganisms11030773">https://doi.org/10.3390/microorganisms11030773</a>.
+</div>
+<div id="ref-fuchs_rupture-based_2022" class="csl-entry" role="listitem">
+Fuchs, Robin, Chloé M. J. Baumas, Marc Garel, David Nerini, Frédéric A. C. Le Moigne, and Christian Tamburini. 2022. <span>“A <span>RUpture</span>-Based Detection Method for the Active <span class="nocase">mesopeLagIc</span> Zone (<span>RUBALIZ</span>): A Crucial Step Toward Rigorous Carbon Budget Assessments.”</span> <em>Limnology and Oceanography: Methods</em> n/a. <a href="https://doi.org/10.1002/lom3.10520">https://doi.org/10.1002/lom3.10520</a>.
+</div>
+<div id="ref-garel_pressure-retaining_2019" class="csl-entry" role="listitem">
+Garel, Marc, Patricia Bonin, Séverine Martini, Sophie Guasco, Marie Roumagnac, Nagib Bhairy, Fabrice Armougom, and Christian Tamburini. 2019. <span>“Pressure-Retaining Sampler and High-Pressure Systems to Study Deep-Sea Microbes Under in Situ Conditions.”</span> <em>Frontiers in Microbiology</em> 10. <a href="https://doi.org/10.3389/fmicb.2019.00453">https://doi.org/10.3389/fmicb.2019.00453</a>.
+</div>
+<div id="ref-garel_contrasting_2021" class="csl-entry" role="listitem">
+Garel, Marc, Christos Panagiotopoulos, Mehdi Boutrif, Daniel Repeta, Richard Sempéré, Chiara Santinelli, Bruno Charrière, David Nerini, Jean-Christophe Poggiale, and Christian Tamburini. 2021. <span>“Contrasting Degradation Rates of Natural Dissolved Organic Carbon by Deep-Sea Prokaryotes Under Stratified Water Masses and Deep-Water Convection Conditions in the <span>NW</span> Mediterranean Sea.”</span> <em>Marine Chemistry</em> 231 (April): 103932. <a href="https://doi.org/10.1016/j.marchem.2021.103932">https://doi.org/10.1016/j.marchem.2021.103932</a>.
+</div>
+<div id="ref-jacquet_barium_2020" class="csl-entry" role="listitem">
+Jacquet, S H M, D Lefevre, Christian Tamburini, Marc Garel, Frédéric A. C. Le Moigne, Nagib Bhairy, Marie Roumagnac, and Sophie Guasco. 2020. <span>“On the Barium - Oxygen Consumption Relationship in the Mediterranean Sea: Implications for Mesopelagic Marine Snow Remineralization.”</span> <em>Biogeosciences Discussion</em>. <a href="https://doi.org/10.5194/bg-2020-241">https://doi.org/10.5194/bg-2020-241</a>.
+</div>
+<div id="ref-khelaifia_desulfovibrio_2011" class="csl-entry" role="listitem">
+Khelaifia, Saber, Marie-Laure Fardeau, Nathalie Pradel, Clément Aussignargues, Marc Garel, Christian Tamburini, Jean-Luc Cayol, Sylvie Gaudron, Françoise Gaill, and Bernard Ollivier. 2011. <span>“Desulfovibrio Piezophilus Sp. Nov., a Piezophilic, Sulfate-Reducing Bacterium Isolated from Wood Falls in the Mediterranean Sea.”</span> <em>International Journal of Systematic and Evolutionary Microbiology</em> 61 (November): 2706–11. <a href="https://doi.org/10.1099/ijs.0.028670-0">https://doi.org/10.1099/ijs.0.028670-0</a>.
+</div>
+<div id="ref-la_riviere_localization_2016" class="csl-entry" role="listitem">
+La Rivière, Marie, Marc Garel, and Marc Bally. 2016. <span>“Localization of Endobacteria in the Gastrodermis of a Mediterranean Gorgonian Coral, Paramuricea Clavata, Using Fluorescence in Situ Hybridization.”</span> <em>Marine Biology</em> 163 (10): 206. <a href="https://doi.org/10.1007/s00227-016-2975-y">https://doi.org/10.1007/s00227-016-2975-y</a>.
+</div>
+<div id="ref-le_coq_distinct_2026" class="csl-entry" role="listitem">
+Le Coq, Pauline, Urania Christaki, France Van Wambeke, Elisabeth Chevillon, Bruno Zakardjian, Marc Garel, Sophie Guasco, et al. 2026. <span>“Distinct Contributions of Suspended and Sinking Prokaryotes to Mesopelagic Carbon Budget.”</span> <em>Nature Geoscience</em>, January, 1–8. <a href="https://doi.org/10.1038/s41561-025-01888-w">https://doi.org/10.1038/s41561-025-01888-w</a>.
+</div>
+<div id="ref-martini_effects_2013" class="csl-entry" role="listitem">
+Martini, Séverine, Badr Al Ali, Marc Garel, David Nerini, Vincent Grossi, Muriel Pacton, Laurence Casalot, Philippe Cuny, and Christian Tamburini. 2013. <span>“Effects of Hydrostatic Pressure on Growth and Luminescence of a Moderately-Piezophilic Luminous Bacteria Photobacterium Phosphoreum <span>ANT</span>-2200.”</span> Edited by Adam Driks. <em><span>PLoS</span> <span>ONE</span></em> 8 (6): e66580. <a href="https://doi.org/10.1371/journal.pone.0066580">https://doi.org/10.1371/journal.pone.0066580</a>.
+</div>
+<div id="ref-martini_bacteria_2016" class="csl-entry" role="listitem">
+Martini, S., V. Michotey, L. Casalot, P. Bonin, S. Guasco, M. Garel, and C. Tamburini. 2016. <span>“Bacteria as Part of Bioluminescence Emission at the Deep <span>ANTARES</span> Station (North-Western Mediterranean Sea) During a One-Year Survey.”</span> <em>Deep Sea Research Part I: Oceanographic Research Papers</em> 116: 33–40. <a href="https://doi.org/10.1016/j.dsr.2016.07.014">https://doi.org/10.1016/j.dsr.2016.07.014</a>.
+</div>
+<div id="ref-michotey_situ_2020" class="csl-entry" role="listitem">
+Michotey, Valérie, Aurélie Blanfuné, Cristèle Chevalier, Marc Garel, Frédéric Diaz, Léo Berline, Louis Le Grand, et al. 2020. <span>“In Situ Observations and Modelling Revealed Environmental Factors Favouring Occurrence of Vibrio in Microbiome of the Pelagic Sargassum Responsible for Strandings.”</span> <em>Science of the Total Environment</em> 748 (December). <a href="https://doi.org/10.1016/j.scitotenv.2020.141216">https://doi.org/10.1016/j.scitotenv.2020.141216</a>.
+</div>
+<div id="ref-pradel_first_2013" class="csl-entry" role="listitem">
+Pradel, Nathalie, Boyang Ji, Grégory Gimenez, Emmanuel Talla, Patricia Lenoble, Marc Garel, Christian Tamburini, et al. 2013. <span>“The First Genomic and Proteomic Characterization of a Deep-Sea Sulfate Reducer: Insights into the Piezophilic Lifestyle of Desulfovibrio Piezophilus.”</span> <em><span>PloS</span> One</em> 8 (1): e55130. <a href="https://doi.org/10.1371/journal.pone.0055130">https://doi.org/10.1371/journal.pone.0055130</a>.
+</div>
+<div id="ref-quemeneur_hydrostatic_2019" class="csl-entry" role="listitem">
+Quéméneur, Marianne, Gaël Erauso, Eléonore Frouin, Emna Zeghal, Céline Vandecasteele, Bernard Ollivier, Christian Tamburini, Marc Garel, Bénédicte Ménez, and Anne Postec. 2019. <span>“Hydrostatic Pressure Helps to Cultivate an Original Anaerobic Bacterium from the Atlantis Massif Subseafloor (<span>IODP</span> Expedition 357): Petrocella Atlantisensis Gen. Nov. Sp. Nov.”</span> <em>Frontiers in Microbiology</em> 10 (July): 1497. <a href="https://doi.org/10.3389/fmicb.2019.01497">https://doi.org/10.3389/fmicb.2019.01497</a>.
+</div>
+<div id="ref-riou_biodegradation_2018" class="csl-entry" role="listitem">
+Riou, Virginie, Julien Para, Marc Garel, Catherine Guigue, Badr Al Ali, Chiara Santinelli, Dominique Lefèvre, et al. 2018. <span>“Biodegradation of Emiliania Huxleyi Aggregates by a Natural Mediterranean Prokaryotic Community Under Increasing Hydrostatic Pressure.”</span> <em>Progress in Oceanography</em> 163 (April): 271–81. <a href="https://doi.org/10.1016/j.pocean.2017.01.005">https://doi.org/10.1016/j.pocean.2017.01.005</a>.
+</div>
+<div id="ref-roumagnac_responses_2020" class="csl-entry" role="listitem">
+Roumagnac, Marie, Nathalie Pradel, Manon Bartoli, Marc Garel, Aaron A. Jones, Fabrice Armougom, Romain Fenouil, et al. 2020. <span>“Responses to the Hydrostatic Pressure of Surface and Subsurface Strains of Pseudothermotoga Elfii Revealing the Piezophilic Nature of the Strain Originating from an Oil-Producing Well.”</span> <em>Frontiers in Microbiology</em> 11 (December): 588771. <a href="https://doi.org/10.3389/fmicb.2020.588771">https://doi.org/10.3389/fmicb.2020.588771</a>.
+</div>
+<div id="ref-schmidt_aging_2025" class="csl-entry" role="listitem">
+Schmidt, Natascha, Aurelio Foscari Widmann Rezzonico, Dorte Herzke, Marc Garel, Christian Tamburini, Bettina Seiwert, Thorsten Reemtsma, and Richard Sempéré. 2025. <span>“Aging of Tire Particles in Deep-Sea Conditions: Interactions Between Hydrostatic Pressure, Prokaryotic Growth and Chemical Leaching.”</span> <em>Environmental Science &amp; Technology</em> 59 (September). <a href="https://doi.org/10.1021/acs.est.5c10705">https://doi.org/10.1021/acs.est.5c10705</a>.
+</div>
+<div id="ref-severin_impact_2016" class="csl-entry" role="listitem">
+Severin, Tatiana, Caroline Sauret, Mehdi Boutrif, Thomas Duhaut, Fayçal Kessouri, Louise Oriol, Jocelyne Caparros, et al. 2016. <span>“Impact of an Intense Water Column Mixing (0-1500 m) on Prokaryotic Diversity and Activities During an Open-Ocean Convection Event in the <span>NW</span> Mediterranean Sea.”</span> <em>Environmental Microbiology</em> 18 (12): 4378–90. <a href="https://doi.org/10.1111/1462-2920.13324">https://doi.org/10.1111/1462-2920.13324</a>.
+</div>
+<div id="ref-smedile_variations_2015" class="csl-entry" role="listitem">
+Smedile, Francesco, Simona Scarfi, Emilio De Domenico, Marc Garel, and Helen Glanville. 2015. <span>“Variations in Microbial Community Structure Through the Stratified Water Column in the Tyrrhenian Sea ( Central Mediterranean ).”</span> <em>Journal of Marine Science and Engineering</em> 3: 845–65. <a href="https://doi.org/10.3390/jmse3030845">https://doi.org/10.3390/jmse3030845</a>.
+</div>
+<div id="ref-tamburini_prokaryotic_2013" class="csl-entry" role="listitem">
+Tamburini, Christian, Mehdi Boutrif, Marc Garel, Rita R Colwell, and Jody W Deming. 2013. <span>“Prokaryotic Responses to Hydrostatic Pressure in the Ocean - a Review.”</span> <em>Environmental Microbiology</em> 15 (5): 1262–74. <a href="https://doi.org/10.1111/1462-2920.12084">https://doi.org/10.1111/1462-2920.12084</a>.
+</div>
+<div id="ref-tamburini_distribution_2009" class="csl-entry" role="listitem">
+Tamburini, Christian, Marc Garel, Badr Al Ali, Bastien Mérigot, Pascal Kriwy, Bruno Charrière, and Giorgio Budillon. 2009. <span>“Distribution and Activity of Bacteria and Archaea in the Different Water Masses of the Tyrrhenian Sea.”</span> <em>Deep Sea Research Part <span>II</span>: Topical Studies in Oceanography</em> 56 (11): 700–712. <a href="https://doi.org/10.1016/j.dsr2.2008.07.021">https://doi.org/10.1016/j.dsr2.2008.07.021</a>.
+</div>
+<div id="ref-tamburini_increasing_2021" class="csl-entry" role="listitem">
+Tamburini, Christian, Marc Garel, Aude Barani, Dominique Boeuf, Patricia Bonin, Nagib Bhairy, Sophie Guasco, et al. 2021. <span>“Increasing Hydrostatic Pressure Impacts the Prokaryotic Diversity During Emiliania Huxleyi Aggregates Degradation.”</span> <em>Water</em> 13 (19): 2616. <a href="https://doi.org/10.3390/w13192616">https://doi.org/10.3390/w13192616</a>.
+</div>
+<div id="ref-tamburini_effects_2009" class="csl-entry" role="listitem">
+Tamburini, Christian, Madeleine Goutx, Catherine Guigue, Marc Garel, Dominique Lefèvre, Bruno Charrière, Richard Sempéré, et al. 2009. <span>“Effects of Hydrostatic Pressure on Microbial Alteration of Sinking Fecal Pellets.”</span> <em>Deep Sea Research Part <span>II</span>: Topical Studies in Oceanography</em> 56 (18): 1533–46. <a href="https://doi.org/10.1016/j.dsr2.2008.12.035">https://doi.org/10.1016/j.dsr2.2008.12.035</a>.
+</div>
+<div id="ref-tanet_bacterial_2019" class="csl-entry" role="listitem">
+Tanet, Lisa, Christian Tamburini, Chloé Baumas, Marc Garel, Gwénola Simon, and Laurie Casalot. 2019. <span>“Bacterial Bioluminescence: Light Emission in Photobacterium Phosphoreum Is Not Under Quorum-Sensing Control.”</span> <em>Frontiers in Microbiology</em> 10 (March). <a href="https://doi.org/10.3389/fmicb.2019.00365">https://doi.org/10.3389/fmicb.2019.00365</a>.
+</div>
+<div id="ref-van_wambeke_spatial_2020" class="csl-entry" role="listitem">
+Van Wambeke, France, Elvira Pulido, Julie Dinasquet, Kahina Djaoudi, Anja Engel, Marc Garel, Sophie Guasco, et al. 2020. <span>“Spatial Patterns of Biphasic Ectoenzymatic Kinetics Related to Biogeochemical Properties in the Mediterranean Sea.”</span> <em>Biogeosciences Discussions</em>. <a href="https://doi.org/10.5194/bg-2020-253">https://doi.org/10.5194/bg-2020-253</a>.
+</div>
+<div id="ref-zhang_genomic_2016" class="csl-entry" role="listitem">
+Zhang, Sheng-Da, Claire-Lise Santini, Wei-Jia Zhang, Valérie Barbe, Sophie Mangenot, Charlotte Guyomar, Marc Garel, et al. 2016. <span>“Genomic and Physiological Analysis Reveals Versatile Metabolic Capacity of Deep-Sea Photobacterium Phosphoreum <span>ANT</span>-2200.”</span> <em>Extremophiles</em> 20 (3): 301–10. <a href="https://doi.org/10.1007/s00792-016-0822-1">https://doi.org/10.1007/s00792-016-0822-1</a>.
+</div>
+</div>
 
 
+</section>
 
-
-<div class="quarto-listing quarto-listing-container-table" id="listing-listing">
-<table class="quarto-listing-table table">
-<thead>
-<tr>
-
-<th>
-Title
-</th>
-
-<th>
-authors
-</th>
-
-<th>
-Date
-</th>
-
-<th>
-journal
-</th>
-
-<th>
-doi
-</th>
-
-</tr>
-</thead>
-<tbody class="list">
-
-<tr data-index="0" data-listing-date-sort="1741993200000" data-listing-title-sort="Nouveau système de compensation de pression pour l'échantillonnage marin">
-<td>
-<span class="listing-title">Nouveau système de compensation de pression pour l’échantillonnage marin</span>
-</td>
-<td>
-<span class="listing-authors">Garel M., Dupont J.</span>
-</td>
-<td>
-<span class="listing-date">Mar 15, 2025</span>
-</td>
-<td>
-<span class="listing-journal">Journal of Marine Technology</span>
-</td>
-<td>
-<span class="listing-doi">10.1234/jmt.2025.1</span>
-</td>
-
-</tr>
-
-<tr data-index="1" data-listing-date-sort="1732057200000" data-listing-title-sort="Analyse comparative des méthodes de séquençage 16S">
-<td>
-<span class="listing-title">Analyse comparative des méthodes de séquençage 16S</span>
-</td>
-<td>
-<span class="listing-authors">Garel M., Martin L.</span>
-</td>
-<td>
-<span class="listing-date">Nov 20, 2024</span>
-</td>
-<td>
-<span class="listing-journal">Bioinformatics Today</span>
-</td>
-<td>
-<span class="listing-doi">10.5678/bt.2024.42</span>
-</td>
-
-</tr>
-
-</tbody>
-</table>
-<div class="listing-no-matching d-none">No matching items</div>
-</div></main> <!-- /main -->
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";
