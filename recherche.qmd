@@ -1,0 +1,11 @@
+---
+title: "Recherche"
+---
+
+# Axes de recherche
+- **Bioinformatique** : Analyse de données 16S, métagénomique.
+- **Instrumentation** : Développement de systèmes de prélèvement sous haute pression.
+- **Océanographie** : Étude des écosystèmes marins profonds.
+
+## Projets en cours
+- [Projet HyperbaricTech](link) : Développement de nouveaux compensateurs de pression.

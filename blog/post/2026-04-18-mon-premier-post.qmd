@@ -1,0 +1,9 @@
+---
+title: "Mon premier post"
+author: "Marc GAREL"
+date: "2026-04-18"
+categories: ["scientific-watch", "bioinformatics"]
+---
+
+# Introduction
+Bienvenue sur mon blog scientifique !
