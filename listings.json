@@ -1,0 +1,16 @@
+[
+  {
+    "listing": "/portfolio/index.html",
+    "items": [
+      "/portfolio/projets/projet1.html"
+    ]
+  },
+  {
+    "listing": "/publications/index.html",
+    "items": []
+  },
+  {
+    "listing": "/blog/index.html",
+    "items": []
+  }
+]

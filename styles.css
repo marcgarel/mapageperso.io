@@ -1,0 +1,217 @@
+/* styles.css */
+
+/* Police moderne et lisible */
+:root {
+  --font-main: 'Segoe UI', 'Roboto', 'Helvetica Neue', sans-serif;
+  --font-heading: 'Montserrat', 'Segoe UI', sans-serif;
+  --font-mono: 'Fira Code', 'Courier New', monospace;
+
+  /* Palette océanique */
+  --color-primary: #1e88e5;    /* Bleu océan clair */
+  --color-secondary: #00acc1;  /* Bleu turquoise */
+  --color-dark: #0d47a1;       /* Bleu profond */
+  --color-light: #e1f5fe;      /* Bleu très clair */
+  --color-text: #333333;        /* Texte foncé */
+  --color-text-light: #fafafa;  /* Texte clair */
+  --color-accent: #ff9800;      /* Orange pour les call-to-action */
+}
+
+body {
+  font-family: var(--font-main);
+  color: var(--color-text);
+  line-height: 1.6;
+  background-color: #f8f9fa;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-heading);
+  color: var(--color-dark);
+  font-weight: 600;
+  margin-top: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+a {
+  color: var(--color-primary);
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+a:hover {
+  color: var(--color-secondary);
+}
+
+/* Barre de navigation avec dégradé océanique */
+.navbar {
+  background: linear-gradient(90deg,
+    rgba(144, 202, 249, 1) 0%,   /* Bleu clair (#90CAF9) */
+    rgba(41, 182, 246, 1) 50%,   /* Bleu moyen (#29B6F6) */
+    rgba(30, 136, 229, 1) 100%   /* Bleu turquoise (#1E88E5) */
+  ) !important;
+  padding: 1rem 2rem;
+  box-shadow: 0 2px 15px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease;
+}
+
+/* Effet de transparence légère au survol des liens */
+.navbar .navbar-nav .nav-link {
+  color: white !important;
+  font-family: var(--font-heading);
+  font-weight: 500;
+  margin: 0 0.75rem;
+  position: relative;
+  transition: color 0.3s ease, transform 0.2s ease;
+}
+
+.navbar .navbar-nav .nav-link:hover {
+  color: rgba(255, 255, 255, 0.9) !important;
+  transform: translateY(-1px);
+}
+
+/* Icônes en surbrillance discrète */
+.navbar .nav-link::before {
+  margin-right: 0.5rem;
+  opacity: 0.9;
+  transition: opacity 0.3s ease;
+}
+
+.navbar .nav-link:hover::before {
+  opacity: 1;
+}
+
+/* Icônes pour chaque section */
+.navbar .nav-link[href*="blog"]::before {
+  content: "\f0f6"; /* Icône "blog" (Font Awesome: fa-solid fa-blog) */
+  font-family: "Font Awesome 6 Free";
+  font-weight: 900;
+  margin-right: 0.5rem;
+}
+
+.navbar .nav-link[href*="portfolio"]::before {
+  content: "\f0b1"; /* Icône "portfolio" (Font Awesome: fa-solid fa-briefcase) */
+  font-family: "Font Awesome 6 Free";
+  font-weight: 900;
+  margin-right: 0.5rem;
+}
+
+.navbar .nav-link[href*="recherche"]::before {
+  content: "\f0c3"; /* Icône "recherche" (Font Awesome: fa-solid fa-microscope) */
+  font-family: "Font Awesome 6 Free";
+  font-weight: 900;
+  margin-right: 0.5rem;
+}
+
+.navbar .nav-link[href*="publications"]::before {
+  content: "\f02d"; /* Icône "publications" (Font Awesome: fa-solid fa-book) */
+  font-family: "Font Awesome 6 Free";
+  font-weight: 900;
+  margin-right: 0.5rem;
+}
+
+/* Pied de page */
+.page-footer {
+  background-color: var(--color-dark);
+  color: var(--color-text-light);
+  padding: 2rem;
+  text-align: center;
+}
+
+/* Cartes pour le blog et le portfolio */
+.listing .grid-item {
+  background: white;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  margin-bottom: 2rem;
+  overflow: hidden;
+}
+
+.listing .grid-item:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.15);
+}
+
+.listing .grid-item .card-img-top {
+  height: 200px;
+  object-fit: cover;
+}
+
+.listing .grid-item .card-body {
+  padding: 1.5rem;
+}
+
+.listing .grid-item h3 {
+  color: var(--color-primary);
+  margin-bottom: 0.75rem;
+}
+
+/* Tableau des publications */
+.listing table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 2rem 0;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.listing table th {
+  background-color: var(--color-primary);
+  color: white;
+  padding: 1rem;
+  text-align: left;
+}
+
+.listing table td {
+  padding: 1rem;
+  border-bottom: 1px solid #eee;
+}
+
+.listing table tr:nth-child(even) {
+  background-color: var(--color-light);
+}
+
+.listing table tr:hover {
+  background-color: rgba(30, 136, 229, 0.1);
+}
+
+/* Boutons et call-to-action */
+.btn {
+  background-color: var(--color-accent);
+  color: white;
+  border: none;
+  padding: 0.75rem 1.5rem;
+  border-radius: 4px;
+  font-family: var(--font-heading);
+  font-weight: 500;
+  transition: background-color 0.3s ease;
+}
+
+.btn:hover {
+  background-color: darken(var(--color-accent), 10%);
+}
+
+/* Code et blocs de code */
+pre, code {
+  font-family: var(--font-mono);
+  background-color: #f5f5f5;
+  border-radius: 4px;
+  padding: 0.25rem 0.5rem;
+  border: 1px solid #ddd;
+}
+
+pre {
+  padding: 1rem;
+  overflow-x: auto;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .navbar {
+    padding: 0.75rem 1rem;
+  }
+
+  .listing .grid-item {
+    margin-bottom: 1.5rem;
+  }
+}

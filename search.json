@@ -1,0 +1,93 @@
+[
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "Senior Scientist & Research Engineer @ CNRS (20 ans d’expérience)\nSpécialiste en biologie moléculaire, génétique, bioinformatique, et instrumentation sous haute pression.\n\n\n\n\n\nDéveloppement web (HTML/CSS/JS, Quarto)\nAnalyse de données 16S\nInstrumentation scientifique\n\n\n\n\n\nEmail: marc.garel@cnrs.fr"
+  },
+  {
+    "objectID": "cv.html#expérience-professionnelle",
+    "href": "cv.html#expérience-professionnelle",
+    "title": "CV",
+    "section": "",
+    "text": "Senior Scientist & Research Engineer @ CNRS (20 ans d’expérience)\nSpécialiste en biologie moléculaire, génétique, bioinformatique, et instrumentation sous haute pression."
+  },
+  {
+    "objectID": "cv.html#compétences",
+    "href": "cv.html#compétences",
+    "title": "CV",
+    "section": "",
+    "text": "Développement web (HTML/CSS/JS, Quarto)\nAnalyse de données 16S\nInstrumentation scientifique"
+  },
+  {
+    "objectID": "cv.html#contact",
+    "href": "cv.html#contact",
+    "title": "CV",
+    "section": "",
+    "text": "Email: marc.garel@cnrs.fr"
+  },
+  {
+    "objectID": "portfolio/index.html",
+    "href": "portfolio/index.html",
+    "title": "Portfolio",
+    "section": "",
+    "text": "Projet 1 : Analyse 16S\n\n\nDéveloppement d’un pipeline d’analyse de données 16S pour le CNRS.\n\n\n\n\n\n\nOct 1, 2025\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "blog/post/2026-04-18-mon-premier-post.html",
+    "href": "blog/post/2026-04-18-mon-premier-post.html",
+    "title": "Mon premier post",
+    "section": "",
+    "text": "Introduction\nBienvenue sur mon blog scientifique !"
+  },
+  {
+    "objectID": "publications/index.html",
+    "href": "publications/index.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Title\n\n\n\nauthors\n\n\n\nDate\n\n\n\njournal\n\n\n\ndoi\n\n\n\n\n\n\n\n\nNouveau système de compensation de pression pour l’échantillonnage marin\n\n\nGarel M., Dupont J.\n\n\nMar 15, 2025\n\n\nJournal of Marine Technology\n\n\n10.1234/jmt.2025.1\n\n\n\n\n\n\nAnalyse comparative des méthodes de séquençage 16S\n\n\nGarel M., Martin L.\n\n\nNov 20, 2024\n\n\nBioinformatics Today\n\n\n10.5678/bt.2024.42\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "mapagepeso",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "blog/index.html",
+    "href": "blog/index.html",
+    "title": "Blog",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "portfolio/projets/projet1.html",
+    "href": "portfolio/projets/projet1.html",
+    "title": "Projet 1 : Analyse 16S",
+    "section": "",
+    "text": "Contexte\nCe projet vise à automatiser l’analyse de données de séquençage 16S pour des échantillons marins sous haute pression."
+  },
+  {
+    "objectID": "recherche.html",
+    "href": "recherche.html",
+    "title": "Recherche",
+    "section": "",
+    "text": "Bioinformatique : Analyse de données 16S, métagénomique.\nInstrumentation : Développement de systèmes de prélèvement sous haute pression.\nOcéanographie : Étude des écosystèmes marins profonds.\n\n\n\n\nProjet HyperbaricTech : Développement de nouveaux compensateurs de pression."
+  },
+  {
+    "objectID": "recherche.html#projets-en-cours",
+    "href": "recherche.html#projets-en-cours",
+    "title": "Recherche",
+    "section": "",
+    "text": "Projet HyperbaricTech : Développement de nouveaux compensateurs de pression."
+  }
+]
