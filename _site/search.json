@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "mapagepeso",
-    "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
-  },
-  {
     "objectID": "cv.html",
     "href": "cv.html",
     "title": "CV",
@@ -61,6 +54,13 @@
     "title": "Publications",
     "section": "",
     "text": "Title\n\n\n\nauthors\n\n\n\nDate\n\n\n\njournal\n\n\n\ndoi\n\n\n\n\n\n\n\n\nNouveau système de compensation de pression pour l’échantillonnage marin\n\n\nGarel M., Dupont J.\n\n\nMar 15, 2025\n\n\nJournal of Marine Technology\n\n\n10.1234/jmt.2025.1\n\n\n\n\n\n\nAnalyse comparative des méthodes de séquençage 16S\n\n\nGarel M., Martin L.\n\n\nNov 20, 2024\n\n\nBioinformatics Today\n\n\n10.5678/bt.2024.42\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "mapagepeso",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
   },
   {
     "objectID": "blog/index.html",
