@@ -21,7 +21,7 @@ website:
         text: "📚 Publications"
     right:
       - icon: github
-        href: https://github.com/tonsurnomgithub
+        href: https://github.com/marcgarel/mapageperso.io
   page-footer:
     left: "© 2026 Marc GAREL"
     right: "Site créé avec [Quarto](https://quarto.org/)"
