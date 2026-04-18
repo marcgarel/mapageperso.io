@@ -11,6 +11,8 @@
   },
   {
     "listing": "/blog/index.html",
-    "items": []
+    "items": [
+      "/blog/posts/2026-04-18-mon-premier-post.html"
+    ]
   }
 ]
