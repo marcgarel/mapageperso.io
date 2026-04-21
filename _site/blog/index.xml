@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Marc Garel</title>
+<link>https://marcgarel.github.io/mapageperso.io/blog/</link>
+<atom:link href="https://marcgarel.github.io/mapageperso.io/blog/index.xml" rel="self" type="application/rss+xml"/>
+<description></description>
+<generator>quarto-1.7.30</generator>
+<lastBuildDate>Sat, 18 Apr 2026 22:00:00 GMT</lastBuildDate>
+<item>
+  <title>Retour d’expédition : Les fosses du Pacifique</title>
+  <link>https://marcgarel.github.io/mapageperso.io/blog/posts/2026-04-19-expedition-oceanographique/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>De retour de trois semaines en mer à bord du Pourquoi Pas ?. Nous avons récolté des échantillons de sédiments à plus de 5000m de profondeur.</p>
+<p>Les premières analyses révèlent une diversité microbienne insoupçonnée…</p>
+
+
+
+ ]]></description>
+  <category>océanographie</category>
+  <category>expédition</category>
+  <guid>https://marcgarel.github.io/mapageperso.io/blog/posts/2026-04-19-expedition-oceanographique/</guid>
+  <pubDate>Sat, 18 Apr 2026 22:00:00 GMT</pubDate>
+  <media:content url="https://marcgarel.github.io/mapageperso.io/blog/posts/2026-04-19-expedition-oceanographique/image.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Particpation à l’OSM 2026</title>
+  <link>https://marcgarel.github.io/mapageperso.io/blog/posts/2026-02-23-OSM_2026/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Yesterday, I presented my poster about a review on pressure compensation for deep see sampling in <a href="https://www.linkedin.com/feed/hashtag/osm2026?trk=public_post_embed-text"><strong>#OSM2026</strong></a> international congress at Glasgow <a href="https://www.linkedin.com/feed/hashtag/apero?trk=public_post_embed-text"><strong>#APERO</strong></a>, <a href="https://www.linkedin.com/feed/hashtag/hotdog?trk=public_post_embed-text"><strong>#HOTDOG</strong></a>, <a href="https://www.linkedin.com/company/cnrs?trk=public_post_embed-text"><strong>CNRS</strong></a> , <a href="https://www.linkedin.com/company/icmcb?trk=public_post_embed-text"><strong>ICMCB</strong></a>, <a href="https://www.linkedin.com/feed/hashtag/cnrsterreAbRetAbRunivers?trk=public_post_embed-text"><strong>#CNRSTerre_et_Univers</strong></a></p>
+
+
+
+ ]]></description>
+  <category>Congress</category>
+  <guid>https://marcgarel.github.io/mapageperso.io/blog/posts/2026-02-23-OSM_2026/</guid>
+  <pubDate>Sun, 22 Feb 2026 23:00:00 GMT</pubDate>
+  <media:content url="https://marcgarel.github.io/mapageperso.io/blog/posts/2026-02-23-OSM_2026/image.jpg" medium="image" type="image/jpeg"/>
+</item>
+</channel>
+</rss>
