@@ -1,11 +1,42 @@
 ---
-title: "Recherche"
+title: "Mes Recherches"
 ---
 
-# Axes de recherche
-- **Bioinformatique** : Analyse de données 16S, métagénomique.
-- **Instrumentation** : Développement de systèmes de prélèvement sous haute pression.
-- **Océanographie** : Étude des écosystèmes marins profonds.
+Ma recherche se concentre sur l'interface entre la microbiologie marine et l'ingénierie environnementale. J'étudie comment les microorganismes s'adaptent aux environnements extrêmes et comment nous pouvons utiliser ces connaissances pour développer de nouvelles technologies.
 
-## Projets en cours
-- [Projet HyperbaricTech](link) : Développement de nouveaux compensateurs de pression.
+## Axes de Recherche
+
+### 1. Adaptation aux Hautes Pressions (Piezophilie)
+
+Nous explorons les mécanismes moléculaires qui permettent aux bactéries des grands fonds de survivre et de prospérer sous des pressions hydrostatiques extrêmes. - **Objectif** : Identifier les protéines de stress et les modifications membranaires. - **Méthodes** : Etude de métabolisme sous pression, culture en réacteurs HP, effet de la pression sur la diversité.
+
+### 2. Instrumentation Océanographique
+
+Développement de nouveaux capteurs in situ pour la surveillance biogéochimique des océans. - **Projet en cours** : Capteurs de pH et d'oxygène pour observatoires profonds.
+
+### 3. Bioremédiation Marine
+
+Utilisation de consortiums microbiens pour la dégradation des polluants en mer.
+
+## Collaborations Financées
+
+-   **HOTDOG** (ANR, 2023-2027) : L’objectif du projet HOT DOG concerne l’acquisition de connaissances fondamentales sur la biodiversité procaryotique et la dynamique des écosystèmes hydrothermaux. Ceci sera réalisé grâce à des approches couplées sur site et au laboratoire impliquant la microbiologie haute pression, l’échantillonnage environnemental, l’instrumentation miniaturisée pressurisée à criblage rapide, des outils transparents avancés pour la caractérisation in situ, des plateformes de bioréacteurs et la modélisation numérique.
+-   [**APERO** ](https://www.aperocruise.fr/)(ANR, 2022-2026): APERO proposes to take a new step towards the mechanistic understanding of the Biological Carbon Pump, from organic carbon production at the ocean surface, to its export and remineralization in the water column,focusing on the dark ocean. It is mostly based on a multi-disciplinary cruise in the NE Atlantic Ocean, with twovessels, which took place in June/July 2023.
+-   [**OCEAN ICU**](https://ocean-icu.eu/)( European project, 2022-2027) : OceanICU is a Horizon Europe project aiming to produce new data, information and understanding on the role of the Ocean in the global carbon cycle.
+-   **BIOBLUE** (AMIDEX, 2025-2027)
+-   **IIT** (CNRS, 2025-2026) PI : Développement instrumentales
+-   **ANF MetaBiodiv** (CNRS, 2022-2026) : Exploration de la Diversité Taxonomique des Ecosystèmes par Metabarcoding Caractériser la biodiversité environnementale afin d’étudier l’impact du changement global sur les milieux et de l’anthropisation de la planète. Ces enjeux nécessitent l’acquisition de connaissances sur la biodiversité pour répondre aux grands défis planétaires (e.g. modéliser, anticiper, prévenir les catastrophes écologiques), aux objectifs de développement durable, et contribuer aux grandes transitions de la société dans un contexte de changement climatique.
+
+## Timeline des Projets
+
+```{mermaid}
+gantt
+    title Chronologie des projets de recherche
+    dateFormat  YYYY-MM-DD
+    section Recherche
+    Piezophilie           :active, p1, 2023-01-01, 2026-12-31
+    Bioremédiation        :p2, 2024-06-01, 2027-05-31
+    section Instrumentation
+    Capteurs HP           :p3, 2023-03-01, 2025-08-31
+    Observatoires Profonds :p4, 2025-01-01, 2028-12-31
+```

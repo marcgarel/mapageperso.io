@@ -1,6 +1,11 @@
 ---
-title: "Portfolio"
+title: "Mon Portfolio"
+subtitle: "Projets Techniques & Scientifiques"
 listing:
-  contents: projets
+  contents: projects
   type: grid
+  categories: true
+  sort: "date desc"
 ---
+
+Aperçu de mes projets récents en instrumentation, bioinformatique et recherche de terrain.

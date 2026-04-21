@@ -1,9 +1,0 @@
----
-title: "Projet 1 : Analyse 16S"
-description: "Développement d'un pipeline d'analyse de données 16S pour le CNRS."
-date: "2025-10-01"
-image: "images/projet1.png"
----
-
-# Contexte
-Ce projet vise à automatiser l'analyse de données de séquençage 16S pour des échantillons marins sous haute pression.

@@ -1,0 +1,15 @@
+---
+title: "Capteur Haute Pression v2"
+description: "Conception d'un capteur de pH résistant à 600 bars."
+date: "2025-12-01"
+categories: [instrumentation, ingénierie]
+---
+
+Ce projet visait à miniaturiser l'électronique de contrôle pour une intégration sur des flotteurs autonomes.
+
+### Méthodologie
+- Utilisation de Peek pour le corps du capteur.
+- Tests en chambre hyperbare.
+
+### Résultats
+Navigation réussie à 4500m de profondeur sans dérive du signal.

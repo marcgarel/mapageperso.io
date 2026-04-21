@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="85d064bb-9d30-4f3c-a650-abc88228e899" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/_site/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/blog/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/blog/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/blog/posts/2026-04-18-mon-premier-post.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/blog/posts/2026-04-18-mon-premier-post.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/cv.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/cv.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/portfolio/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/portfolio/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/portfolio/projets/projet1.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/portfolio/projets/projet1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/publications/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/publications/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/recherche.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/recherche.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="3CgNXFWXjBaz2aUkWJ1tqQuznLK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-bf879d056d4a-297dacbbd45d-com.jetbrains.pycharm.ds.sharedIndexes.bundled-DS-253.30387.154" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="85d064bb-9d30-4f3c-a650-abc88228e899" name="Changes" comment="" />
+      <created>1776803291350</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1776803291350</updated>
+    </task>
+    <servers />
+  </component>
+</project>

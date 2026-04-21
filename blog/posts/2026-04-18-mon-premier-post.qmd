@@ -1,8 +1,0 @@
----
-title: "Mon premier post"
-date: "2026-04-18"
-categories: ["scientific-watch", "bioinformatics"]
----
-
-# Introduction
-Bienvenue sur mon blog scientifique !

@@ -1,0 +1,10 @@
+---
+title: "Retour d'expédition : Les fosses du Pacifique"
+date: "2026-04-19"
+categories: [océanographie, expédition]
+image: "image.jpg"
+---
+
+De retour de trois semaines en mer à bord du Pourquoi Pas ?. Nous avons récolté des échantillons de sédiments à plus de 5000m de profondeur.
+
+Les premières analyses révèlent une diversité microbienne insoupçonnée...

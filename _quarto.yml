@@ -2,34 +2,42 @@ project:
   type: website
 
 website:
-  title: "Marc GAREL"
+  title: "Marc Garel"
   navbar:
     left:
       - href: index.qmd
-        text: "🏠 Accueil"
-      - href: about.qmd
-        text: "👤 À propos"
-      - href: cv.qmd
-        text: "📄 CV"
-      - href: blog/index.qmd
-        text: "📝 Blog"
-      - href: portfolio/index.qmd
-        text: "💼 Portfolio"
+        text: Accueil
       - href: recherche.qmd
-        text: "🔬 Recherche"
+        text: Recherche
+      - href: blog/index.qmd
+        text: Blog
+      - href: portfolio/index.qmd
+        text: Portfolio
       - href: publications/index.qmd
-        text: "📚 Publications"
+        text: Publications
     right:
       - icon: github
-        href: https://github.com/marcgarel/mapageperso.io
+        href: https://github.com/ 
+      - icon: twitter
+        href: https://twitter.com/
+      - icon: envelope
+        href: mailto:marc.garel@cnrs.fr
+
   page-footer:
-    left: "© 2026 Marc GAREL"
-    right: "Site créé avec [Quarto](https://quarto.org/)"
+    left: "© 2026 Marc Garel"
+    right: 
+      - icon: mortarboard
+        href: https://orcid.org/
 
 format:
   html:
-    theme: cosmo
-    css: styles.css
+    theme:
+      light: cosmo
+      dark: darkly
+    css: css/styles.css
     toc: true
-    bibliography: publications/publications.bib
-    cite-method: citeproc
+    code-fold: true
+    code-copy: true
+    highlight-style: github
+
+editor: visual

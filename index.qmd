@@ -1,7 +1,27 @@
 ---
-title: "mapagepeso"
+title: "Marc Garel (PhD)"
+subtitle: "Ingénieur de Recherche  : Instrumentation et Océanographie Microbienne"
+about:
+  template: jolla
+  image: images/avatar.jpg
+  links:
+    - icon: orcid
+      text: ORCID
+      href: https://orcid.org/0000-0002-4374-5905
+    - icon: github
+      text: Github
+      href: https://github.com/marcgarel
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/marcgarel/
 ---
 
-This is a Quarto website.
+Bienvenue sur mon site personnel. Je suis Marc Garel, ingénieur de recherche au [CNRS](https://www.cnrs.fr/fr) spécialisé en instrumentation et océanographie microbienne. Mon travail se concentre sur l'étude des processus microbiens dans les environnements marins, en utilisant des technologies avancées pour comprendre les cycles biogéochimiques et les interactions microbiennes.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+### Domaines d'expertise
+
+-   **Océanographie Microbienne** : Étude des cycles biogéochimiques / étude de processus mirobiens.
+-   **Instrumentation** : Technologie Haute pression / simulation de conditions environnemetales.
+-   **Bioinformatique** : Analyse métabarcofing des écosystèmes marins.
+
+N'hésitez pas à explorer mes [travaux de recherche](recherche.qmd) ou à lire mes derniers articles sur le [blog](blog/index.qmd).

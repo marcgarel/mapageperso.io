@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Recherche – Marc GAREL</title>
+<title>Mes Recherches – Marc Garel</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -36,10 +36,14 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-de070a7b0ab54f8780927367ac907214.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-662ae1889177880cb371f83234c0a158.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-e2182856f2c32102dd26b05a5ef16cb5.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-662ae1889177880cb371f83234c0a158.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-c1fac2584b48ed01fb6e278e36375074.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-90ee96a17764a76d4fcf3f331faa145e.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-dark-2fbcc7362a12b50d6c1f380ea23cf028.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="site_libs/bootstrap/bootstrap-90ee96a17764a76d4fcf3f331faa145e.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -67,12 +71,177 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script src="site_libs/quarto-diagram/mermaid.min.js"></script>
+<script src="site_libs/quarto-diagram/mermaid-init.js"></script>
+<link href="site_libs/quarto-diagram/mermaid.css" rel="stylesheet">
 
 
-<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="css/styles.css">
 </head>
 
-<body class="nav-fixed quarto-light">
+<body class="nav-fixed quarto-light"><script id="quarto-html-before-body" type="application/javascript">
+    const toggleBodyColorMode = (bsSheetEl) => {
+      const mode = bsSheetEl.getAttribute("data-mode");
+      const bodyEl = window.document.querySelector("body");
+      if (mode === "dark") {
+        bodyEl.classList.add("quarto-dark");
+        bodyEl.classList.remove("quarto-light");
+      } else {
+        bodyEl.classList.add("quarto-light");
+        bodyEl.classList.remove("quarto-dark");
+      }
+    }
+    const toggleBodyColorPrimary = () => {
+      const bsSheetEl = window.document.querySelector("link#quarto-bootstrap:not([rel=disabled-stylesheet])");
+      if (bsSheetEl) {
+        toggleBodyColorMode(bsSheetEl);
+      }
+    }
+    const setColorSchemeToggle = (alternate) => {
+      const toggles = window.document.querySelectorAll('.quarto-color-scheme-toggle');
+      for (let i=0; i < toggles.length; i++) {
+        const toggle = toggles[i];
+        if (toggle) {
+          if (alternate) {
+            toggle.classList.add("alternate");
+          } else {
+            toggle.classList.remove("alternate");
+          }
+        }
+      }
+    };
+    const toggleColorMode = (alternate) => {
+      // Switch the stylesheets
+      const primaryStylesheets = window.document.querySelectorAll('link.quarto-color-scheme:not(.quarto-color-alternate)');
+      const alternateStylesheets = window.document.querySelectorAll('link.quarto-color-scheme.quarto-color-alternate');
+      manageTransitions('#quarto-margin-sidebar .nav-link', false);
+      if (alternate) {
+        // note: dark is layered on light, we don't disable primary!
+        enableStylesheet(alternateStylesheets);
+        for (const sheetNode of alternateStylesheets) {
+          if (sheetNode.id === "quarto-bootstrap") {
+            toggleBodyColorMode(sheetNode);
+          }
+        }
+      } else {
+        disableStylesheet(alternateStylesheets);
+        enableStylesheet(primaryStylesheets)
+        toggleBodyColorPrimary();
+      }
+      manageTransitions('#quarto-margin-sidebar .nav-link', true);
+      // Switch the toggles
+      setColorSchemeToggle(alternate)
+      // Hack to workaround the fact that safari doesn't
+      // properly recolor the scrollbar when toggling (#1455)
+      if (navigator.userAgent.indexOf('Safari') > 0 && navigator.userAgent.indexOf('Chrome') == -1) {
+        manageTransitions("body", false);
+        window.scrollTo(0, 1);
+        setTimeout(() => {
+          window.scrollTo(0, 0);
+          manageTransitions("body", true);
+        }, 40);
+      }
+    }
+    const disableStylesheet = (stylesheets) => {
+      for (let i=0; i < stylesheets.length; i++) {
+        const stylesheet = stylesheets[i];
+        stylesheet.rel = 'disabled-stylesheet';
+      }
+    }
+    const enableStylesheet = (stylesheets) => {
+      for (let i=0; i < stylesheets.length; i++) {
+        const stylesheet = stylesheets[i];
+        if(stylesheet.rel !== 'stylesheet') { // for Chrome, which will still FOUC without this check
+          stylesheet.rel = 'stylesheet';
+        }
+      }
+    }
+    const manageTransitions = (selector, allowTransitions) => {
+      const els = window.document.querySelectorAll(selector);
+      for (let i=0; i < els.length; i++) {
+        const el = els[i];
+        if (allowTransitions) {
+          el.classList.remove('notransition');
+        } else {
+          el.classList.add('notransition');
+        }
+      }
+    }
+    const isFileUrl = () => {
+      return window.location.protocol === 'file:';
+    }
+    const hasAlternateSentinel = () => {
+      let styleSentinel = getColorSchemeSentinel();
+      if (styleSentinel !== null) {
+        return styleSentinel === "alternate";
+      } else {
+        return false;
+      }
+    }
+    const setStyleSentinel = (alternate) => {
+      const value = alternate ? "alternate" : "default";
+      if (!isFileUrl()) {
+        window.localStorage.setItem("quarto-color-scheme", value);
+      } else {
+        localAlternateSentinel = value;
+      }
+    }
+    const getColorSchemeSentinel = () => {
+      if (!isFileUrl()) {
+        const storageValue = window.localStorage.getItem("quarto-color-scheme");
+        return storageValue != null ? storageValue : localAlternateSentinel;
+      } else {
+        return localAlternateSentinel;
+      }
+    }
+    const toggleGiscusIfUsed = (isAlternate, darkModeDefault) => {
+      const baseTheme = document.querySelector('#giscus-base-theme')?.value ?? 'light';
+      const alternateTheme = document.querySelector('#giscus-alt-theme')?.value ?? 'dark';
+      let newTheme = '';
+      if(authorPrefersDark) {
+        newTheme = isAlternate ? baseTheme : alternateTheme;
+      } else {
+        newTheme = isAlternate ? alternateTheme : baseTheme;
+      }
+      const changeGiscusTheme = () => {
+        // From: https://github.com/giscus/giscus/issues/336
+        const sendMessage = (message) => {
+          const iframe = document.querySelector('iframe.giscus-frame');
+          if (!iframe) return;
+          iframe.contentWindow.postMessage({ giscus: message }, 'https://giscus.app');
+        }
+        sendMessage({
+          setConfig: {
+            theme: newTheme
+          }
+        });
+      }
+      const isGiscussLoaded = window.document.querySelector('iframe.giscus-frame') !== null;
+      if (isGiscussLoaded) {
+        changeGiscusTheme();
+      }
+    };
+    const authorPrefersDark = false;
+    const darkModeDefault = authorPrefersDark;
+      document.querySelector('link#quarto-text-highlighting-styles.quarto-color-scheme-extra').rel = 'disabled-stylesheet';
+      document.querySelector('link#quarto-bootstrap.quarto-color-scheme-extra').rel = 'disabled-stylesheet';
+    let localAlternateSentinel = darkModeDefault ? 'alternate' : 'default';
+    // Dark / light mode switch
+    window.quartoToggleColorScheme = () => {
+      // Read the current dark / light value
+      let toAlternate = !hasAlternateSentinel();
+      toggleColorMode(toAlternate);
+      setStyleSentinel(toAlternate);
+      toggleGiscusIfUsed(toAlternate, darkModeDefault);
+      window.dispatchEvent(new Event('resize'));
+    };
+    // Switch to dark mode if need be
+    if (hasAlternateSentinel()) {
+      toggleColorMode(true);
+    } else {
+      toggleColorMode(false);
+    }
+  </script>
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -80,7 +249,7 @@ ul.task-list li input[type="checkbox"] {
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
     <a class="navbar-brand" href="./index.html">
-    <span class="navbar-title">Marc GAREL</span>
+    <span class="navbar-title">Marc Garel</span>
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
@@ -91,42 +260,45 @@ ul.task-list li input[type="checkbox"] {
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
     <a class="nav-link" href="./index.html"> 
-<span class="menu-text">🏠 Accueil</span></a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./about.html"> 
-<span class="menu-text">👤 À propos</span></a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./cv.html"> 
-<span class="menu-text">📄 CV</span></a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./blog/index.html"> 
-<span class="menu-text">📝 Blog</span></a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./portfolio/index.html"> 
-<span class="menu-text">💼 Portfolio</span></a>
+<span class="menu-text">Accueil</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link active" href="./recherche.html" aria-current="page"> 
-<span class="menu-text">🔬 Recherche</span></a>
+<span class="menu-text">Recherche</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./blog/index.html"> 
+<span class="menu-text">Blog</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./portfolio/index.html"> 
+<span class="menu-text">Portfolio</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./publications/index.html"> 
-<span class="menu-text">📚 Publications</span></a>
+<span class="menu-text">Publications</span></a>
   </li>  
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item compact">
-    <a class="nav-link" href="https://github.com/marcgarel/mapageperso.io"> <i class="bi bi-github" role="img">
+    <a class="nav-link" href="https://github.com/"> <i class="bi bi-github" role="img">
+</i> 
+<span class="menu-text"></span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://twitter.com/"> <i class="bi bi-twitter" role="img">
+</i> 
+<span class="menu-text"></span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="mailto:marc.garel@cnrs.fr"> <i class="bi bi-envelope" role="img">
 </i> 
 <span class="menu-text"></span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
             <div class="quarto-navbar-tools">
+  <a href="" class="quarto-color-scheme-toggle quarto-navigation-tool  px-1" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
 </div>
       </div> <!-- /container-fluid -->
     </nav>
@@ -140,19 +312,24 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#axes-de-recherche" id="toc-axes-de-recherche" class="nav-link active" data-scroll-target="#axes-de-recherche">Axes de recherche</a>
+  <li><a href="#axes-de-recherche" id="toc-axes-de-recherche" class="nav-link active" data-scroll-target="#axes-de-recherche">Axes de Recherche</a>
   <ul class="collapse">
-  <li><a href="#projets-en-cours" id="toc-projets-en-cours" class="nav-link" data-scroll-target="#projets-en-cours">Projets en cours</a></li>
+  <li><a href="#adaptation-aux-hautes-pressions-piezophilie" id="toc-adaptation-aux-hautes-pressions-piezophilie" class="nav-link" data-scroll-target="#adaptation-aux-hautes-pressions-piezophilie">1. Adaptation aux Hautes Pressions (Piezophilie)</a></li>
+  <li><a href="#instrumentation-océanographique" id="toc-instrumentation-océanographique" class="nav-link" data-scroll-target="#instrumentation-océanographique">2. Instrumentation Océanographique</a></li>
+  <li><a href="#bioremédiation-marine" id="toc-bioremédiation-marine" class="nav-link" data-scroll-target="#bioremédiation-marine">3. Bioremédiation Marine</a></li>
   </ul></li>
+  <li><a href="#collaborations-financées" id="toc-collaborations-financées" class="nav-link" data-scroll-target="#collaborations-financées">Collaborations Financées</a></li>
+  <li><a href="#timeline-des-projets" id="toc-timeline-des-projets" class="nav-link" data-scroll-target="#timeline-des-projets">Timeline des Projets</a></li>
   </ul>
 </nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
+
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Recherche</h1>
+<h1 class="title">Mes Recherches</h1>
 </div>
 
 
@@ -169,26 +346,75 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="axes-de-recherche" class="level1">
-<h1>Axes de recherche</h1>
-<ul>
-<li><strong>Bioinformatique</strong> : Analyse de données 16S, métagénomique.</li>
-<li><strong>Instrumentation</strong> : Développement de systèmes de prélèvement sous haute pression.</li>
-<li><strong>Océanographie</strong> : Étude des écosystèmes marins profonds.</li>
-</ul>
-<section id="projets-en-cours" class="level2">
-<h2 class="anchored" data-anchor-id="projets-en-cours">Projets en cours</h2>
-<ul>
-<li><a href="link">Projet HyperbaricTech</a> : Développement de nouveaux compensateurs de pression.</li>
-</ul>
-
-
+<p>Ma recherche se concentre sur l’interface entre la microbiologie marine et l’ingénierie environnementale. J’étudie comment les microorganismes s’adaptent aux environnements extrêmes et comment nous pouvons utiliser ces connaissances pour développer de nouvelles technologies.</p>
+<section id="axes-de-recherche" class="level2">
+<h2 class="anchored" data-anchor-id="axes-de-recherche">Axes de Recherche</h2>
+<section id="adaptation-aux-hautes-pressions-piezophilie" class="level3">
+<h3 class="anchored" data-anchor-id="adaptation-aux-hautes-pressions-piezophilie">1. Adaptation aux Hautes Pressions (Piezophilie)</h3>
+<p>Nous explorons les mécanismes moléculaires qui permettent aux bactéries des grands fonds de survivre et de prospérer sous des pressions hydrostatiques extrêmes. - <strong>Objectif</strong> : Identifier les protéines de stress et les modifications membranaires. - <strong>Méthodes</strong> : Etude de métabolisme sous pression, culture en réacteurs HP, effet de la pression sur la diversité.</p>
 </section>
+<section id="instrumentation-océanographique" class="level3">
+<h3 class="anchored" data-anchor-id="instrumentation-océanographique">2. Instrumentation Océanographique</h3>
+<p>Développement de nouveaux capteurs in situ pour la surveillance biogéochimique des océans. - <strong>Projet en cours</strong> : Capteurs de pH et d’oxygène pour observatoires profonds.</p>
+</section>
+<section id="bioremédiation-marine" class="level3">
+<h3 class="anchored" data-anchor-id="bioremédiation-marine">3. Bioremédiation Marine</h3>
+<p>Utilisation de consortiums microbiens pour la dégradation des polluants en mer.</p>
+</section>
+</section>
+<section id="collaborations-financées" class="level2">
+<h2 class="anchored" data-anchor-id="collaborations-financées">Collaborations Financées</h2>
+<ul>
+<li><strong>HOTDOG</strong> (ANR, 2023-2027) : L’objectif du projet HOT DOG concerne l’acquisition de connaissances fondamentales sur la biodiversité procaryotique et la dynamique des écosystèmes hydrothermaux. Ceci sera réalisé grâce à des approches couplées sur site et au laboratoire impliquant la microbiologie haute pression, l’échantillonnage environnemental, l’instrumentation miniaturisée pressurisée à criblage rapide, des outils transparents avancés pour la caractérisation in situ, des plateformes de bioréacteurs et la modélisation numérique.</li>
+<li><a href="https://www.aperocruise.fr/"><strong>APERO</strong></a>(ANR, 2022-2026): APERO proposes to take a new step towards the mechanistic understanding of the Biological Carbon Pump, from organic carbon production at the ocean surface, to its export and remineralization in the water column,focusing on the dark ocean. It is mostly based on a multi-disciplinary cruise in the NE Atlantic Ocean, with twovessels, which took place in June/July 2023.</li>
+<li><a href="https://ocean-icu.eu/"><strong>OCEAN ICU</strong></a>( European project, 2022-2027) : OceanICU is a Horizon Europe project aiming to produce new data, information and understanding on the role of the Ocean in the global carbon cycle.</li>
+<li><strong>BIOBLUE</strong> (AMIDEX, 2025-2027)</li>
+<li><strong>IIT</strong> (CNRS, 2025-2026) PI : Développement instrumentales</li>
+<li><strong>ANF MetaBiodiv</strong> (CNRS, 2022-2026) : Exploration de la Diversité Taxonomique des Ecosystèmes par Metabarcoding Caractériser la biodiversité environnementale afin d’étudier l’impact du changement global sur les milieux et de l’anthropisation de la planète. Ces enjeux nécessitent l’acquisition de connaissances sur la biodiversité pour répondre aux grands défis planétaires (e.g.&nbsp;modéliser, anticiper, prévenir les catastrophes écologiques), aux objectifs de développement durable, et contribuer aux grandes transitions de la société dans un contexte de changement climatique.</li>
+</ul>
+</section>
+<section id="timeline-des-projets" class="level2">
+<h2 class="anchored" data-anchor-id="timeline-des-projets">Timeline des Projets</h2>
+<div class="cell" data-layout-align="default">
+<div class="cell-output-display">
+<div>
+<p></p><figure class="figure"><p></p>
+<div>
+<pre class="mermaid mermaid-js">gantt
+    title Chronologie des projets de recherche
+    dateFormat  YYYY-MM-DD
+    section Recherche
+    Piezophilie           :active, p1, 2023-01-01, 2026-12-31
+    Bioremédiation        :p2, 2024-06-01, 2027-05-31
+    section Instrumentation
+    Capteurs HP           :p3, 2023-03-01, 2025-08-31
+    Observatoires Profonds :p4, 2025-01-01, 2028-12-31
+</pre>
+</div>
+<p></p></figure><p></p>
+</div>
+</div>
+</div>
+
+
 </section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
+    // Ensure there is a toggle, if there isn't float one in the top right
+    if (window.document.querySelector('.quarto-color-scheme-toggle') === null) {
+      const a = window.document.createElement('a');
+      a.classList.add('top-right');
+      a.classList.add('quarto-color-scheme-toggle');
+      a.href = "";
+      a.onclick = function() { try { window.quartoToggleColorScheme(); } catch {} return false; };
+      const i = window.document.createElement("i");
+      i.classList.add('bi');
+      a.appendChild(i);
+      window.document.body.appendChild(a);
+    }
+    setColorSchemeToggle(hasAlternateSentinel())
     const icon = "";
     const anchorJS = new window.AnchorJS();
     anchorJS.options = {
@@ -590,14 +816,21 @@ ul.task-list li input[type="checkbox"] {
 <footer class="footer">
   <div class="nav-footer">
     <div class="nav-footer-left">
-<p>© 2026 Marc GAREL</p>
+<p>© 2026 Marc Garel</p>
 </div>   
     <div class="nav-footer-center">
       &nbsp;
     </div>
     <div class="nav-footer-right">
-<p>Site créé avec <a href="https://quarto.org/">Quarto</a></p>
-</div>
+      <ul class="footer-items list-unstyled">
+    <li class="nav-item compact">
+    <a class="nav-link" href="https://orcid.org/">
+      <i class="bi bi-mortarboard" role="img">
+</i> 
+    </a>
+  </li>  
+</ul>
+    </div>
   </div>
 </footer>
 
