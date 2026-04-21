@@ -1,93 +1,107 @@
 [
   {
-    "objectID": "cv.html",
-    "href": "cv.html",
-    "title": "CV",
+    "objectID": "recherche.html",
+    "href": "recherche.html",
+    "title": "Mes Recherches",
     "section": "",
-    "text": "Senior Scientist & Research Engineer @ CNRS (20 ans d’expérience)\nSpécialiste en biologie moléculaire, génétique, bioinformatique, et instrumentation sous haute pression.\n\n\n\n\n\nDéveloppement web (HTML/CSS/JS, Quarto)\nAnalyse de données 16S\nInstrumentation scientifique\n\n\n\n\n\nEmail: marc.garel@cnrs.fr"
+    "text": "Ma recherche se concentre sur l’interface entre la microbiologie marine et l’ingénierie environnementale. J’étudie comment les microorganismes s’adaptent aux environnements extrêmes et comment nous pouvons utiliser ces connaissances pour développer de nouvelles technologies."
   },
   {
-    "objectID": "cv.html#expérience-professionnelle",
-    "href": "cv.html#expérience-professionnelle",
-    "title": "CV",
-    "section": "",
-    "text": "Senior Scientist & Research Engineer @ CNRS (20 ans d’expérience)\nSpécialiste en biologie moléculaire, génétique, bioinformatique, et instrumentation sous haute pression."
+    "objectID": "recherche.html#axes-de-recherche",
+    "href": "recherche.html#axes-de-recherche",
+    "title": "Mes Recherches",
+    "section": "Axes de Recherche",
+    "text": "Axes de Recherche\n\n1. Adaptation aux Hautes Pressions (Piezophilie)\nNous explorons les mécanismes moléculaires qui permettent aux bactéries des grands fonds de survivre et de prospérer sous des pressions hydrostatiques extrêmes. - Objectif : Identifier les protéines de stress et les modifications membranaires. - Méthodes : Etude de métabolisme sous pression, culture en réacteurs HP, effet de la pression sur la diversité.\n\n\n2. Instrumentation Océanographique\nDéveloppement de nouveaux capteurs in situ pour la surveillance biogéochimique des océans. - Projet en cours : Capteurs de pH et d’oxygène pour observatoires profonds.\n\n\n3. Bioremédiation Marine\nUtilisation de consortiums microbiens pour la dégradation des polluants en mer."
   },
   {
-    "objectID": "cv.html#compétences",
-    "href": "cv.html#compétences",
-    "title": "CV",
-    "section": "",
-    "text": "Développement web (HTML/CSS/JS, Quarto)\nAnalyse de données 16S\nInstrumentation scientifique"
+    "objectID": "recherche.html#collaborations-financées",
+    "href": "recherche.html#collaborations-financées",
+    "title": "Mes Recherches",
+    "section": "Collaborations Financées",
+    "text": "Collaborations Financées\n\nHOTDOG (ANR, 2023-2027) : L’objectif du projet HOT DOG concerne l’acquisition de connaissances fondamentales sur la biodiversité procaryotique et la dynamique des écosystèmes hydrothermaux. Ceci sera réalisé grâce à des approches couplées sur site et au laboratoire impliquant la microbiologie haute pression, l’échantillonnage environnemental, l’instrumentation miniaturisée pressurisée à criblage rapide, des outils transparents avancés pour la caractérisation in situ, des plateformes de bioréacteurs et la modélisation numérique.\nAPERO(ANR, 2022-2026): APERO proposes to take a new step towards the mechanistic understanding of the Biological Carbon Pump, from organic carbon production at the ocean surface, to its export and remineralization in the water column,focusing on the dark ocean. It is mostly based on a multi-disciplinary cruise in the NE Atlantic Ocean, with twovessels, which took place in June/July 2023.\nOCEAN ICU( European project, 2022-2027) : OceanICU is a Horizon Europe project aiming to produce new data, information and understanding on the role of the Ocean in the global carbon cycle.\nBIOBLUE (AMIDEX, 2025-2027)\nIIT (CNRS, 2025-2026) PI : Développement instrumentales\nANF MetaBiodiv (CNRS, 2022-2026) : Exploration de la Diversité Taxonomique des Ecosystèmes par Metabarcoding Caractériser la biodiversité environnementale afin d’étudier l’impact du changement global sur les milieux et de l’anthropisation de la planète. Ces enjeux nécessitent l’acquisition de connaissances sur la biodiversité pour répondre aux grands défis planétaires (e.g. modéliser, anticiper, prévenir les catastrophes écologiques), aux objectifs de développement durable, et contribuer aux grandes transitions de la société dans un contexte de changement climatique."
   },
   {
-    "objectID": "cv.html#contact",
-    "href": "cv.html#contact",
-    "title": "CV",
-    "section": "",
-    "text": "Email: marc.garel@cnrs.fr"
+    "objectID": "recherche.html#timeline-des-projets",
+    "href": "recherche.html#timeline-des-projets",
+    "title": "Mes Recherches",
+    "section": "Timeline des Projets",
+    "text": "Timeline des Projets\n\n\n\n\n\ngantt\n    title Chronologie des projets de recherche\n    dateFormat  YYYY-MM-DD\n    section Recherche\n    Piezophilie           :active, p1, 2023-01-01, 2026-12-31\n    Bioremédiation        :p2, 2024-06-01, 2027-05-31\n    section Instrumentation\n    Capteurs HP           :p3, 2023-03-01, 2025-08-31\n    Observatoires Profonds :p4, 2025-01-01, 2028-12-31"
   },
   {
-    "objectID": "portfolio/index.html",
-    "href": "portfolio/index.html",
-    "title": "Portfolio",
+    "objectID": "portfolio/projects/instrumentation-hp/index.html",
+    "href": "portfolio/projects/instrumentation-hp/index.html",
+    "title": "Capteur Haute Pression v2",
     "section": "",
-    "text": "Projet 1 : Analyse 16S\n\n\nDéveloppement d’un pipeline d’analyse de données 16S pour le CNRS.\n\n\n\n\n\n\nOct 1, 2025\n\n\n\n\n\n\nNo matching items"
+    "text": "Ce projet visait à miniaturiser l’électronique de contrôle pour une intégration sur des flotteurs autonomes.\n\nMéthodologie\n\nUtilisation de Peek pour le corps du capteur.\nTests en chambre hyperbare.\n\n\n\nRésultats\nNavigation réussie à 4500m de profondeur sans dérive du signal."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "blog/index.html",
+    "href": "blog/index.html",
+    "title": "Blog & Veille Scientifique",
     "section": "",
-    "text": "About this site"
+    "text": "Retour d’expédition : Les fosses du Pacifique\n\n\n\nocéanographie\n\nexpédition\n\n\n\n\n\n\n\n\n\nApr 19, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nParticpation à l’OSM 2026\n\n\n\nCongress\n\n\n\n\n\n\n\n\n\nFeb 23, 2026\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "blog/posts/2026-04-18-mon-premier-post.html",
-    "href": "blog/posts/2026-04-18-mon-premier-post.html",
-    "title": "Mon premier post",
+    "objectID": "blog/posts/2026-02-23-OSM_2026/index.html",
+    "href": "blog/posts/2026-02-23-OSM_2026/index.html",
+    "title": "Particpation à l’OSM 2026",
     "section": "",
-    "text": "Introduction\nBienvenue sur mon blog scientifique !"
+    "text": "Yesterday, I presented my poster about a review on pressure compensation for deep see sampling in #OSM2026 international congress at Glasgow #APERO, #HOTDOG, CNRS , ICMCB, #CNRSTerre_et_Univers"
   },
   {
     "objectID": "publications/index.html",
     "href": "publications/index.html",
     "title": "Publications",
     "section": "",
-    "text": "Mes Publications\n\n(Jacquet et al. 2020; C. Baumas et al. 2023, 2024; Fuchs et al. 2022; Tanet et al. 2019; Garel et al. 2019; Benavides et al. 2022; Pradel et al. 2013, 2013; Tamburini, Goutx, et al. 2009, 2009; Zhang et al. 2016; Amrani et al. 2014; Severin et al. 2016; La Rivière, Garel, and Bally 2016; Riou et al. 2018; Michotey et al. 2020, 2020; Van Wambeke et al. 2020; acquet_particulate_2020?; Roumagnac et al. 2020; C. M. J. Baumas et al. 2021; Quéméneur et al. 2019; Khelaifia et al. 2011; Smedile et al. 2015; Al Ali et al. 2010; Boutrif et al. 2011; Cathalot et al. 2021; Tamburini et al. 2021; garel_ready?–use_2020; S. Martini et al. 2016; Séverine Martini et al. 2013; Tamburini, Garel, et al. 2009; Tamburini et al. 2013; Garel et al. 2021; Fauvelle et al. 2021; Fenouil et al. 2023; Schmidt et al. 2025; C. Baumas et al. 2025; Le Coq et al. 2026)\n\n\n\nAl Ali, Badr, Marc Garel, Philippe Cuny, Juan-Carlos Miquel, Tarik Toubal, Anne Robert, and Christian Tamburini. 2010. “Luminous Bacteria in the Deep-Sea Waters Near the ANTARES Underwater Neutrino Telescope (Mediterranean Sea).” Chemistry and Ecology 26 (1): 57–72. https://doi.org/10.1080/02757540903513766.\n\n\nAmrani, Amira, Aurélie Bergon, Hélène Holota, Christian Tamburini, Marc Garel, Bernard Ollivier, Jean Imbert, Alain Dolla, and Nathalie Pradel. 2014. “Transcriptomics Reveal Several Gene Expression Patterns in the Piezophile Desulfovibrio Hydrothermalis in Response to Hydrostatic Pressure.” PLoS ONE 9 (9). https://doi.org/10.1371/journal.pone.0106831.\n\n\nBaumas, Chloé M. J., Frédéric A. C. Le Moigne, Marc Garel, Nagib Bhairy, Sophie Guasco, Virginie Riou, Fabrice Armougom, Hans-Peter Grossart, and Christian Tamburini. 2021. “Mesopelagic Microbial Carbon Production Correlates with Diversity Across Different Marine Particle Fractions.” The ISME Journal, January. https://doi.org/10.1038/s41396-020-00880-z.\n\n\nBaumas, Chloé, Fatima-Ezzahra Ababou, Marc Garel, Mina Bizic, Danny Ionescu, Arthur Puzenat, Frederic Le Moigne, Hans-Peter Grossart, and Christian Tamburini. 2024. “A Novel Method to Sample Individual Marine Snow Particles for Downstream Molecular Analyses.” Limnology and Oceanography Methods, January. https://doi.org/10.1002/lom3.10590.\n\n\nBaumas, Chloé, Robin Fuchs, Marc Garel, Jean-Christophe Poggiale, Laurent Memery, Frederic Le Moigne, and Christian Tamburini. 2023. “Reconstructing the Ocean’s Mesopelagic Zone Carbon Budget: Sensitivity and Estimation of Parameters Associated with Prokaryotic Remineralization.” Journal of Geophysical Research Atmospheres 20 (October): 4165–82. https://doi.org/10.5194/bg-20-4165-2023.\n\n\nBaumas, Chloé, Danny Ionescu, Marc Garel, Hans-Peter Grossart, Christian Tamburini, and Mina Bizic. 2025. Pressure-Driven Microbial and Viral Dynamics on Individual Sinking Particles: Implications for Carbon Cycling. https://doi.org/10.31223/X5FJ2Q.\n\n\nBenavides, Mar, Sophie Bonnet, Frédéric A. C. Le Moigne, Gabrielle Armin, Keisuke Inomura, Søren Hallstrøm, Lasse Riemann, et al. 2022. “Sinking Trichodesmium Fixes Nitrogen in the Dark Ocean.” The ISME Journal, July, 1–8. https://doi.org/10.1038/s41396-022-01289-6.\n\n\nBoutrif, Mehdi, Marc Garel, Matthew T. Cottrell, and Christian Tamburini. 2011. “Assimilation of Marine Extracellular Polymeric Substances by Deep-Sea Prokaryotes in the NW Mediterranean Sea.” Environmental Microbiology Reports 3 (6): 705–9. https://doi.org/10.1111/j.1758-2229.2011.00285.x.\n\n\nCathalot, Cécile, Erwan G. Roussel, Antoine Perhirin, Vanessa Creff, Jean-Pierre Donval, Vivien Guyader, Guillaume Roullet, et al. 2021. “Hydrothermal Plumes as Hotspots for Deep-Ocean Heterotrophic Microbial Biomass Production.” Nature Communications 12 (1): 6861. https://doi.org/10.1038/s41467-021-26877-6.\n\n\nFauvelle, Vincent, Marc Garel, Christian Tamburini, David Nerini, Javier Castro-Jiménez, Natascha Schmidt, Andrea Paluselli, et al. 2021. “Organic Additive Release from Plastic to Seawater Is Lower Under Deep-Sea Conditions.” Nature Communications 12 (1): 4426. https://doi.org/10.1038/s41467-021-24738-w.\n\n\nFenouil, Romain, Nathalie Pradel, Hassiba Belahbib, Marie Roumagnac, Manon Bartoli, Wajdi Ben Hania, Yann Denis, et al. 2023. “Adaptation Strategies to High Hydrostatic Pressures in Pseudothermotoga Species Revealed by Transcriptional Analyses.” Microorganisms 11 (3): 773. https://doi.org/10.3390/microorganisms11030773.\n\n\nFuchs, Robin, Chloé M. J. Baumas, Marc Garel, David Nerini, Frédéric A. C. Le Moigne, and Christian Tamburini. 2022. “A RUpture-Based Detection Method for the Active mesopeLagIc Zone (RUBALIZ): A Crucial Step Toward Rigorous Carbon Budget Assessments.” Limnology and Oceanography: Methods n/a. https://doi.org/10.1002/lom3.10520.\n\n\nGarel, Marc, Patricia Bonin, Séverine Martini, Sophie Guasco, Marie Roumagnac, Nagib Bhairy, Fabrice Armougom, and Christian Tamburini. 2019. “Pressure-Retaining Sampler and High-Pressure Systems to Study Deep-Sea Microbes Under in Situ Conditions.” Frontiers in Microbiology 10. https://doi.org/10.3389/fmicb.2019.00453.\n\n\nGarel, Marc, Christos Panagiotopoulos, Mehdi Boutrif, Daniel Repeta, Richard Sempéré, Chiara Santinelli, Bruno Charrière, David Nerini, Jean-Christophe Poggiale, and Christian Tamburini. 2021. “Contrasting Degradation Rates of Natural Dissolved Organic Carbon by Deep-Sea Prokaryotes Under Stratified Water Masses and Deep-Water Convection Conditions in the NW Mediterranean Sea.” Marine Chemistry 231 (April): 103932. https://doi.org/10.1016/j.marchem.2021.103932.\n\n\nJacquet, S H M, D Lefevre, Christian Tamburini, Marc Garel, Frédéric A. C. Le Moigne, Nagib Bhairy, Marie Roumagnac, and Sophie Guasco. 2020. “On the Barium - Oxygen Consumption Relationship in the Mediterranean Sea: Implications for Mesopelagic Marine Snow Remineralization.” Biogeosciences Discussion. https://doi.org/10.5194/bg-2020-241.\n\n\nKhelaifia, Saber, Marie-Laure Fardeau, Nathalie Pradel, Clément Aussignargues, Marc Garel, Christian Tamburini, Jean-Luc Cayol, Sylvie Gaudron, Françoise Gaill, and Bernard Ollivier. 2011. “Desulfovibrio Piezophilus Sp. Nov., a Piezophilic, Sulfate-Reducing Bacterium Isolated from Wood Falls in the Mediterranean Sea.” International Journal of Systematic and Evolutionary Microbiology 61 (November): 2706–11. https://doi.org/10.1099/ijs.0.028670-0.\n\n\nLa Rivière, Marie, Marc Garel, and Marc Bally. 2016. “Localization of Endobacteria in the Gastrodermis of a Mediterranean Gorgonian Coral, Paramuricea Clavata, Using Fluorescence in Situ Hybridization.” Marine Biology 163 (10): 206. https://doi.org/10.1007/s00227-016-2975-y.\n\n\nLe Coq, Pauline, Urania Christaki, France Van Wambeke, Elisabeth Chevillon, Bruno Zakardjian, Marc Garel, Sophie Guasco, et al. 2026. “Distinct Contributions of Suspended and Sinking Prokaryotes to Mesopelagic Carbon Budget.” Nature Geoscience, January, 1–8. https://doi.org/10.1038/s41561-025-01888-w.\n\n\nMartini, Séverine, Badr Al Ali, Marc Garel, David Nerini, Vincent Grossi, Muriel Pacton, Laurence Casalot, Philippe Cuny, and Christian Tamburini. 2013. “Effects of Hydrostatic Pressure on Growth and Luminescence of a Moderately-Piezophilic Luminous Bacteria Photobacterium Phosphoreum ANT-2200.” Edited by Adam Driks. PLoS ONE 8 (6): e66580. https://doi.org/10.1371/journal.pone.0066580.\n\n\nMartini, S., V. Michotey, L. Casalot, P. Bonin, S. Guasco, M. Garel, and C. Tamburini. 2016. “Bacteria as Part of Bioluminescence Emission at the Deep ANTARES Station (North-Western Mediterranean Sea) During a One-Year Survey.” Deep Sea Research Part I: Oceanographic Research Papers 116: 33–40. https://doi.org/10.1016/j.dsr.2016.07.014.\n\n\nMichotey, Valérie, Aurélie Blanfuné, Cristèle Chevalier, Marc Garel, Frédéric Diaz, Léo Berline, Louis Le Grand, et al. 2020. “In Situ Observations and Modelling Revealed Environmental Factors Favouring Occurrence of Vibrio in Microbiome of the Pelagic Sargassum Responsible for Strandings.” Science of the Total Environment 748 (December). https://doi.org/10.1016/j.scitotenv.2020.141216.\n\n\nPradel, Nathalie, Boyang Ji, Grégory Gimenez, Emmanuel Talla, Patricia Lenoble, Marc Garel, Christian Tamburini, et al. 2013. “The First Genomic and Proteomic Characterization of a Deep-Sea Sulfate Reducer: Insights into the Piezophilic Lifestyle of Desulfovibrio Piezophilus.” PloS One 8 (1): e55130. https://doi.org/10.1371/journal.pone.0055130.\n\n\nQuéméneur, Marianne, Gaël Erauso, Eléonore Frouin, Emna Zeghal, Céline Vandecasteele, Bernard Ollivier, Christian Tamburini, Marc Garel, Bénédicte Ménez, and Anne Postec. 2019. “Hydrostatic Pressure Helps to Cultivate an Original Anaerobic Bacterium from the Atlantis Massif Subseafloor (IODP Expedition 357): Petrocella Atlantisensis Gen. Nov. Sp. Nov.” Frontiers in Microbiology 10 (July): 1497. https://doi.org/10.3389/fmicb.2019.01497.\n\n\nRiou, Virginie, Julien Para, Marc Garel, Catherine Guigue, Badr Al Ali, Chiara Santinelli, Dominique Lefèvre, et al. 2018. “Biodegradation of Emiliania Huxleyi Aggregates by a Natural Mediterranean Prokaryotic Community Under Increasing Hydrostatic Pressure.” Progress in Oceanography 163 (April): 271–81. https://doi.org/10.1016/j.pocean.2017.01.005.\n\n\nRoumagnac, Marie, Nathalie Pradel, Manon Bartoli, Marc Garel, Aaron A. Jones, Fabrice Armougom, Romain Fenouil, et al. 2020. “Responses to the Hydrostatic Pressure of Surface and Subsurface Strains of Pseudothermotoga Elfii Revealing the Piezophilic Nature of the Strain Originating from an Oil-Producing Well.” Frontiers in Microbiology 11 (December): 588771. https://doi.org/10.3389/fmicb.2020.588771.\n\n\nSchmidt, Natascha, Aurelio Foscari Widmann Rezzonico, Dorte Herzke, Marc Garel, Christian Tamburini, Bettina Seiwert, Thorsten Reemtsma, and Richard Sempéré. 2025. “Aging of Tire Particles in Deep-Sea Conditions: Interactions Between Hydrostatic Pressure, Prokaryotic Growth and Chemical Leaching.” Environmental Science & Technology 59 (September). https://doi.org/10.1021/acs.est.5c10705.\n\n\nSeverin, Tatiana, Caroline Sauret, Mehdi Boutrif, Thomas Duhaut, Fayçal Kessouri, Louise Oriol, Jocelyne Caparros, et al. 2016. “Impact of an Intense Water Column Mixing (0-1500 m) on Prokaryotic Diversity and Activities During an Open-Ocean Convection Event in the NW Mediterranean Sea.” Environmental Microbiology 18 (12): 4378–90. https://doi.org/10.1111/1462-2920.13324.\n\n\nSmedile, Francesco, Simona Scarfi, Emilio De Domenico, Marc Garel, and Helen Glanville. 2015. “Variations in Microbial Community Structure Through the Stratified Water Column in the Tyrrhenian Sea ( Central Mediterranean ).” Journal of Marine Science and Engineering 3: 845–65. https://doi.org/10.3390/jmse3030845.\n\n\nTamburini, Christian, Mehdi Boutrif, Marc Garel, Rita R Colwell, and Jody W Deming. 2013. “Prokaryotic Responses to Hydrostatic Pressure in the Ocean - a Review.” Environmental Microbiology 15 (5): 1262–74. https://doi.org/10.1111/1462-2920.12084.\n\n\nTamburini, Christian, Marc Garel, Badr Al Ali, Bastien Mérigot, Pascal Kriwy, Bruno Charrière, and Giorgio Budillon. 2009. “Distribution and Activity of Bacteria and Archaea in the Different Water Masses of the Tyrrhenian Sea.” Deep Sea Research Part II: Topical Studies in Oceanography 56 (11): 700–712. https://doi.org/10.1016/j.dsr2.2008.07.021.\n\n\nTamburini, Christian, Marc Garel, Aude Barani, Dominique Boeuf, Patricia Bonin, Nagib Bhairy, Sophie Guasco, et al. 2021. “Increasing Hydrostatic Pressure Impacts the Prokaryotic Diversity During Emiliania Huxleyi Aggregates Degradation.” Water 13 (19): 2616. https://doi.org/10.3390/w13192616.\n\n\nTamburini, Christian, Madeleine Goutx, Catherine Guigue, Marc Garel, Dominique Lefèvre, Bruno Charrière, Richard Sempéré, et al. 2009. “Effects of Hydrostatic Pressure on Microbial Alteration of Sinking Fecal Pellets.” Deep Sea Research Part II: Topical Studies in Oceanography 56 (18): 1533–46. https://doi.org/10.1016/j.dsr2.2008.12.035.\n\n\nTanet, Lisa, Christian Tamburini, Chloé Baumas, Marc Garel, Gwénola Simon, and Laurie Casalot. 2019. “Bacterial Bioluminescence: Light Emission in Photobacterium Phosphoreum Is Not Under Quorum-Sensing Control.” Frontiers in Microbiology 10 (March). https://doi.org/10.3389/fmicb.2019.00365.\n\n\nVan Wambeke, France, Elvira Pulido, Julie Dinasquet, Kahina Djaoudi, Anja Engel, Marc Garel, Sophie Guasco, et al. 2020. “Spatial Patterns of Biphasic Ectoenzymatic Kinetics Related to Biogeochemical Properties in the Mediterranean Sea.” Biogeosciences Discussions. https://doi.org/10.5194/bg-2020-253.\n\n\nZhang, Sheng-Da, Claire-Lise Santini, Wei-Jia Zhang, Valérie Barbe, Sophie Mangenot, Charlotte Guyomar, Marc Garel, et al. 2016. “Genomic and Physiological Analysis Reveals Versatile Metabolic Capacity of Deep-Sea Photobacterium Phosphoreum ANT-2200.” Extremophiles 20 (3): 301–10. https://doi.org/10.1007/s00792-016-0822-1."
+    "text": "Retrouvez ci-dessous la liste de mes publications scientifiques. Vous pouvez également télécharger mon fichier BibTeX.\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Titre\n      \n      \n        Auteurs\n      \n      \n        Année\n      \n      \n        Revue\n      \n      \n        Type\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nAnnée\n\n\n\nTitre\n\n\n\nAuteurs\n\n\n\nRevue\n\n\n\nType\n\n\n\n\n\n\n\n\n2024\n\n\nPressure-induced changes in microbial community structure in the Mediterranean Sea\n\n\nGarel, M. et al.\n\n\nDeep Sea Research Part I\n\n\nArticle\n\n\n\n\n\n\n2023\n\n\nNovel PHP sensor for deep-sea exploration\n\n\nSmith, J. & Garel, M.\n\n\nOcean Engineering\n\n\nArticle\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "mapagepeso",
+    "title": "Marc Garel (PhD)",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Bienvenue sur mon site personnel. Je suis Marc Garel, ingénieur de recherche au CNRS spécialisé en instrumentation et océanographie microbienne. Mon travail se concentre sur l’étude des processus microbiens dans les environnements marins, en utilisant des technologies avancées pour comprendre les cycles biogéochimiques et les interactions microbiennes.\n\nDomaines d’expertise\n\nOcéanographie Microbienne : Étude des cycles biogéochimiques / étude de processus mirobiens.\nInstrumentation : Technologie Haute pression / simulation de conditions environnemetales.\nBioinformatique : Analyse métabarcofing des écosystèmes marins.\n\nN’hésitez pas à explorer mes travaux de recherche ou à lire mes derniers articles sur le blog."
   },
   {
-    "objectID": "blog/index.html",
-    "href": "blog/index.html",
-    "title": "Blog",
+    "objectID": "blog/posts/2026-04-19-expedition-oceanographique/index.html",
+    "href": "blog/posts/2026-04-19-expedition-oceanographique/index.html",
+    "title": "Retour d’expédition : Les fosses du Pacifique",
     "section": "",
-    "text": "Mon premier post\n\n\n\nscientific-watch\n\nbioinformatics\n\n\n\n\n\n\n\n\n\n\nApr 18, 2026\n\n\n\n\n\n\nNo matching items"
+    "text": "De retour de trois semaines en mer à bord du Pourquoi Pas ?. Nous avons récolté des échantillons de sédiments à plus de 5000m de profondeur.\nLes premières analyses révèlent une diversité microbienne insoupçonnée…"
   },
   {
-    "objectID": "portfolio/projets/projet1.html",
-    "href": "portfolio/projets/projet1.html",
-    "title": "Projet 1 : Analyse 16S",
+    "objectID": "CONTRIBUTING.html",
+    "href": "CONTRIBUTING.html",
+    "title": "Guide de Contribution",
     "section": "",
-    "text": "Contexte\nCe projet vise à automatiser l’analyse de données de séquençage 16S pour des échantillons marins sous haute pression."
+    "text": "Ce guide explique comment ajouter du contenu au site.\n\n\n\nCréez un nouveau dossier dans blog/posts/ suivant le format YYYY-MM-DD-titre-court/.\nCréez un fichier index.qmd dans ce dossier.\nRemplissez le front-matter (YAML) avec le titre, la date et les catégories.\n\n\n\n\n\nCréez un dossier dans portfolio/projects/.\nAjoutez un fichier index.qmd.\nUtilisez le format grid pour l’affichage (configuré dans portfolio/index.qmd).\n\n\n\n\n\nModifiez le fichier publications/index.qmd pour ajouter l’entrée dans le listing YAML.\nAjoutez également l’entrée dans publications/references.bib pour permettre l’export par les pairs."
   },
   {
-    "objectID": "recherche.html",
-    "href": "recherche.html",
-    "title": "Recherche",
+    "objectID": "CONTRIBUTING.html#ajouter-un-article-de-blog",
+    "href": "CONTRIBUTING.html#ajouter-un-article-de-blog",
+    "title": "Guide de Contribution",
     "section": "",
-    "text": "Bioinformatique : Analyse de données 16S, métagénomique.\nInstrumentation : Développement de systèmes de prélèvement sous haute pression.\nOcéanographie : Étude des écosystèmes marins profonds.\n\n\n\n\nProjet HyperbaricTech : Développement de nouveaux compensateurs de pression."
+    "text": "Créez un nouveau dossier dans blog/posts/ suivant le format YYYY-MM-DD-titre-court/.\nCréez un fichier index.qmd dans ce dossier.\nRemplissez le front-matter (YAML) avec le titre, la date et les catégories."
   },
   {
-    "objectID": "recherche.html#projets-en-cours",
-    "href": "recherche.html#projets-en-cours",
-    "title": "Recherche",
+    "objectID": "CONTRIBUTING.html#ajouter-un-projet-au-portfolio",
+    "href": "CONTRIBUTING.html#ajouter-un-projet-au-portfolio",
+    "title": "Guide de Contribution",
     "section": "",
-    "text": "Projet HyperbaricTech : Développement de nouveaux compensateurs de pression."
+    "text": "Créez un dossier dans portfolio/projects/.\nAjoutez un fichier index.qmd.\nUtilisez le format grid pour l’affichage (configuré dans portfolio/index.qmd)."
+  },
+  {
+    "objectID": "CONTRIBUTING.html#mettre-à-jour-les-publications",
+    "href": "CONTRIBUTING.html#mettre-à-jour-les-publications",
+    "title": "Guide de Contribution",
+    "section": "",
+    "text": "Modifiez le fichier publications/index.qmd pour ajouter l’entrée dans le listing YAML.\nAjoutez également l’entrée dans publications/references.bib pour permettre l’export par les pairs."
+  },
+  {
+    "objectID": "portfolio/index.html",
+    "href": "portfolio/index.html",
+    "title": "Mon Portfolio",
+    "section": "",
+    "text": "Aperçu de mes projets récents en instrumentation, bioinformatique et recherche de terrain.\n\n\n\n\n\n\n\n\n\n\n\n\nCapteur Haute Pression v2\n\n\n\ninstrumentation\n\ningénierie\n\n\n\nConception d’un capteur de pH résistant à 600 bars.\n\n\n\n\n\n\nDec 1, 2025\n\n\n\n\n\n\nNo matching items"
   }
 ]
