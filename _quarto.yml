@@ -18,8 +18,8 @@ website:
     right:
       - icon: github
         href: https://github.com/ 
-      - icon: twitter
-        href: https://twitter.com/
+      - icon: oricid
+        href: https://orcid.org/0000-0002-4374-5905
       - icon: envelope
         href: mailto:marc.garel@cnrs.fr
 

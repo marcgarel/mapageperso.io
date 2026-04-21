@@ -14,14 +14,14 @@ Nous explorons les mécanismes moléculaires qui permettent aux bactéries des g
 
 Développement de nouveaux capteurs in situ pour la surveillance biogéochimique des océans. - **Projet en cours** : Capteurs de pH et d'oxygène pour observatoires profonds.
 
-### 3. Bioremédiation Marine
+### 3. Diversité des microorganismes extrêmophile
 
-Utilisation de consortiums microbiens pour la dégradation des polluants en mer.
+Etude a de la diversité des microorganismes issus de la zone bathypélagique. Biodersité des des microorganismes provenant des sources hydrothermales tunisenne
 
 ## Collaborations Financées
 
 -   **HOTDOG** (ANR, 2023-2027) : L’objectif du projet HOT DOG concerne l’acquisition de connaissances fondamentales sur la biodiversité procaryotique et la dynamique des écosystèmes hydrothermaux. Ceci sera réalisé grâce à des approches couplées sur site et au laboratoire impliquant la microbiologie haute pression, l’échantillonnage environnemental, l’instrumentation miniaturisée pressurisée à criblage rapide, des outils transparents avancés pour la caractérisation in situ, des plateformes de bioréacteurs et la modélisation numérique.
--   [**APERO** ](https://www.aperocruise.fr/)(ANR, 2022-2026): APERO proposes to take a new step towards the mechanistic understanding of the Biological Carbon Pump, from organic carbon production at the ocean surface, to its export and remineralization in the water column,focusing on the dark ocean. It is mostly based on a multi-disciplinary cruise in the NE Atlantic Ocean, with twovessels, which took place in June/July 2023.
+-   [**APERO**](https://www.aperocruise.fr/)(ANR, 2022-2026): APERO proposes to take a new step towards the mechanistic understanding of the Biological Carbon Pump, from organic carbon production at the ocean surface, to its export and remineralization in the water column,focusing on the dark ocean. It is mostly based on a multi-disciplinary cruise in the NE Atlantic Ocean, with twovessels, which took place in June/July 2023.
 -   [**OCEAN ICU**](https://ocean-icu.eu/)( European project, 2022-2027) : OceanICU is a Horizon Europe project aiming to produce new data, information and understanding on the role of the Ocean in the global carbon cycle.
 -   **BIOBLUE** (AMIDEX, 2025-2027)
 -   **IIT** (CNRS, 2025-2026) PI : Développement instrumentales
