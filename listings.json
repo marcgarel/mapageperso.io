@@ -13,7 +13,9 @@
   {
     "listing": "/portfolio/index.html",
     "items": [
-      "/portfolio/projects/instrumentation-hp/index.html"
+      "/portfolio/projects/instrumentation-hp/index.html",
+      "/portfolio/projects/APERO/index.html",
+      "/portfolio/projects/HOTDOG/index.html"
     ]
   }
 ]
