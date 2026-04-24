@@ -46,14 +46,21 @@
     "href": "blog/index.html",
     "title": "Blog & Veille Scientifique",
     "section": "",
-    "text": "Retour d’expédition : Les fosses du Pacifique\n\n\n\nocéanographie\n\nexpédition\n\n\n\n\n\n\n\n\n\nApr 19, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nParticpation à l’OSM 2026\n\n\n\nCongress\n\n\n\n\n\n\n\n\n\nFeb 23, 2026\n\n\n\n\n\nNo matching items"
+    "text": "Retour d’expédition : Les fosses du Pacifique\n\n\n\nocéanographie\n\nexpédition\n\n\n\n\n\n\n\n\n\nApr 19, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nParticpation à l’OSM 2026\n\n\n\nCongress\n\n\n\n\n\n\n\n\n\nFeb 23, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nParticpation à l’OSM 2026\n\n\n\nPublication\n\n\n\n\n\n\n\n\n\nJan 8, 2026\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "blog/posts/2026-02-23-OSM_2026/index.html",
-    "href": "blog/posts/2026-02-23-OSM_2026/index.html",
+    "objectID": "blog/posts/2026-01-08-APERO-publication/index.html",
+    "href": "blog/posts/2026-01-08-APERO-publication/index.html",
     "title": "Particpation à l’OSM 2026",
     "section": "",
-    "text": "Yesterday, I presented my poster about a review on pressure compensation for deep see sampling in #OSM2026 international congress at Glasgow #APERO, #HOTDOG, CNRS , ICMCB, #CNRSTerre_et_Univers"
+    "text": "Parution dans Nature Geoscience de notre dernier article au sujet de l’ANR #APERO.\nCette article a été écrit par P. Le Coq, étudiante de thèse au laboratoire.\nhttps://www-nature-com.insu.bib.cnrs.fr/articles/s41561-025-01888-w\nhttps://communities.springernature.com/posts/distinct-contributions-of-suspended-and-sinking-prokaryotes-to-mesopelagic-carbon-budget"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Marc Garel (PhD)",
+    "section": "",
+    "text": "Bienvenue sur mon site personnel. Je suis Marc Garel, ingénieur de recherche au CNRS spécialisé en instrumentation et écologie microbienne. Mon travail se concentre sur l’étude des processus microbiens dans les environnements marins et sources hydrotermales terrestres, en utilisant des technologies avancées pour comprendre les cycles biogéochimiques et les interactions microbiennes et leur biodiversitté.\n\nDomaines d’expertise\n\nEcologie Microbienne : Diversité microbienne, analyse moléculaire et activités métaboliques\nInstrumentation : Technologie Haute pression / simulation de conditions environnemetales.\nTravail de terrain : Campagne océanographique (&gt; 250jrs) ; source hydrothermale tunisienne\nBioinformatique : Analyse métabarcofing des écosystèmes marins.\nManagement de projets : voir Portolio\n\nN’hésitez pas à explorer mes travaux de recherche ou à lire mes derniers articles sur le blog."
   },
   {
     "objectID": "publications/index.html",
@@ -63,11 +70,11 @@
     "text": "Retrouvez ci-dessous la liste de mes publications scientifiques. Vous pouvez également télécharger mon fichier BibTeX.\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Titre\n      \n      \n        Auteurs\n      \n      \n        Année\n      \n      \n        Revue\n      \n      \n        Type\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nAnnée\n\n\n\nTitre\n\n\n\nAuteurs\n\n\n\nRevue\n\n\n\nType\n\n\n\n\n\n\n\n\n2024\n\n\nPressure-induced changes in microbial community structure in the Mediterranean Sea\n\n\nGarel, M. et al.\n\n\nDeep Sea Research Part I\n\n\nArticle\n\n\n\n\n\n\n2023\n\n\nNovel PHP sensor for deep-sea exploration\n\n\nSmith, J. & Garel, M.\n\n\nOcean Engineering\n\n\nArticle\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Marc Garel (PhD)",
+    "objectID": "blog/posts/2026-02-23-OSM_2026/index.html",
+    "href": "blog/posts/2026-02-23-OSM_2026/index.html",
+    "title": "Particpation à l’OSM 2026",
     "section": "",
-    "text": "Bienvenue sur mon site personnel. Je suis Marc Garel, ingénieur de recherche au CNRS spécialisé en instrumentation et écologie microbienne. Mon travail se concentre sur l’étude des processus microbiens dans les environnements marins et sources hydrotermales terrestres, en utilisant des technologies avancées pour comprendre les cycles biogéochimiques et les interactions microbiennes et leur biodiversitté.\n\nDomaines d’expertise\n\nEcologie Microbienne : Diversité microbienne, analyse moléculaire et activités métaboliques\nInstrumentation : Technologie Haute pression / simulation de conditions environnemetales.\nTravail de terrain : Campagne océanographique (&gt; 250jrs) ; source hydrothermale tunisienne\nBioinformatique : Analyse métabarcofing des écosystèmes marins.\nManagement de projets : voir Portolio\n\nN’hésitez pas à explorer mes travaux de recherche ou à lire mes derniers articles sur le blog."
+    "text": "Yesterday, I presented my poster about a review on pressure compensation for deep see sampling in #OSM2026 international congress at Glasgow #APERO, #HOTDOG, CNRS , ICMCB, #CNRSTerre_et_Univers"
   },
   {
     "objectID": "blog/posts/2026-04-19-expedition-oceanographique/index.html",
