@@ -16,12 +16,14 @@ about:
       href: https://www.linkedin.com/in/marcgarel/
 ---
 
-Bienvenue sur mon site personnel. Je suis Marc Garel, ingénieur de recherche au [CNRS](https://www.cnrs.fr/fr) spécialisé en instrumentation et océanographie microbienne. Mon travail se concentre sur l'étude des processus microbiens dans les environnements marins, en utilisant des technologies avancées pour comprendre les cycles biogéochimiques et les interactions microbiennes.
+Bienvenue sur mon site personnel. Je suis Marc Garel, ingénieur de recherche au [CNRS](https://www.cnrs.fr/fr) spécialisé en instrumentation et écologie microbienne. Mon travail se concentre sur l'étude des processus microbiens dans les environnements marins et sources hydrotermales terrestres, en utilisant des technologies avancées pour comprendre les cycles biogéochimiques et les interactions microbiennes et leur biodiversitté.
 
 ### Domaines d'expertise
 
--   **Océanographie Microbienne** : Étude des cycles biogéochimiques / étude de processus mirobiens.
+-   **Ecologie Microbienne** : Diversité microbienne, analyse moléculaire et activités métaboliques
 -   **Instrumentation** : Technologie Haute pression / simulation de conditions environnemetales.
+-   **Travail de terrain :** Campagne océanographique (\> 250jrs) ; source hydrothermale tunisienne
 -   **Bioinformatique** : Analyse métabarcofing des écosystèmes marins.
+-   **Management de projets :** voir [Portolio](portfolio/index.qmd)
 
 N'hésitez pas à explorer mes [travaux de recherche](recherche.qmd) ou à lire mes derniers articles sur le [blog](blog/index.qmd).

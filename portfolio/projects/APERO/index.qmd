@@ -1,0 +1,18 @@
+---
+title: "APERO"
+description: "Assessing marine biogenic matter Production, Export and Remineralization: from the surface to the dark Ocean – APERO"
+date: "2023-01-02"
+categories: [instrumentation, ingénierie, adaptation, cruise]
+image: "images/avatar.jpg"
+---
+
+[**APERO**](https://www.aperocruise.fr/)(ANR, 2022-2026): APERO proposes to take a new step towards the mechanistic understanding of the Biological Carbon Pump, from organic carbon production at the ocean surface, to its export and remineralization in the water column,focusing on the dark ocean. It is mostly based on a multi-disciplinary cruise in the NE Atlantic Ocean, with twovessels, which took place in June/July 2023.
+
+### Méthodologie
+
+-   High Pressure Sampler Unit
+-   Simulation Sinking Particle
+-   Sediment trap
+-   Activité métaboliques microbienne
+
+### Résultats

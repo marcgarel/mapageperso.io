@@ -1,0 +1,19 @@
+---
+title: "HOTDOG"
+description: "Conception d'un capteur de pH résistant à 600 bars."
+date: "2023-01-02"
+categories: [instrumentation, ingénierie, adaptation]
+---
+
+-   **HOTDOG** (ANR, 2023-2027) : L’objectif du projet HOT DOG concerne l’acquisition de connaissances fondamentales sur la biodiversité procaryotique et la dynamique des écosystèmes hydrothermaux. Ceci sera réalisé grâce à des approches couplées sur site et au laboratoire impliquant la microbiologie haute pression, l’échantillonnage environnemental, l’instrumentation miniaturisée pressurisée à criblage rapide, des outils transparents avancés pour la caractérisation in situ, des plateformes de bioréacteurs et la modélisation numérique.
+
+### Méthodologie
+
+-   Bouteille haute pression
+-   Culture monospécifique
+-   Tube saphir haute pression
+-   Croissance vs production de methane
+
+### Résultats
+
+En cours d'aquistion

@@ -11,7 +11,7 @@
     "href": "recherche.html#axes-de-recherche",
     "title": "Mes Recherches",
     "section": "Axes de Recherche",
-    "text": "Axes de Recherche\n\n1. Adaptation aux Hautes Pressions (Piezophilie)\nNous explorons les mécanismes moléculaires qui permettent aux bactéries des grands fonds de survivre et de prospérer sous des pressions hydrostatiques extrêmes. - Objectif : Identifier les protéines de stress et les modifications membranaires. - Méthodes : Etude de métabolisme sous pression, culture en réacteurs HP, effet de la pression sur la diversité.\n\n\n2. Instrumentation Océanographique\nDéveloppement de nouveaux capteurs in situ pour la surveillance biogéochimique des océans. - Projet en cours : Capteurs de pH et d’oxygène pour observatoires profonds.\n\n\n3. Diversité des microorganismes extrêmophile\nEtude a de la diversité des microorganismes issus de la zone bathypélagique. Biodersité des des microorganismes provenant des sources hydrothermales tunisenne"
+    "text": "Axes de Recherche\n\n1. Adaptation aux Hautes Pressions (Piezophilie)\nNous explorons les mécanismes moléculaires qui permettent aux bactéries des grands fonds de survivre et de prospérer sous des pressions hydrostatiques extrêmes. - Objectif : Identifier les protéines de stress et les modifications membranaires. - Méthodes : Etude de métabolisme sous pression, culture en réacteurs HP, effet de la pression sur la diversité.\n\n\n2. Instrumentation Océanographique\nDéveloppement de nouveaux capteurs in situ pour la surveillance biogéochimique des océans. - Projet en cours : Capteurs de pH et d’oxygène pour observatoires profonds.\n\n\n3. Diversité des microorganismes extrêmophile\nEtude a de la diversité des microorganismes issus de la zone bathypélagique. Biodersité des des microorganismes provenant des sources hydrothermales Tunisenne"
   },
   {
     "objectID": "recherche.html#collaborations-financées",
@@ -28,11 +28,18 @@
     "text": "Timeline des Projets\n\n\n\n\n\ngantt\n    title Chronologie des projets de recherche\n    dateFormat  YYYY-MM-DD\n    section Recherche\n    Piezophilie           :active, p1, 2023-01-01, 2026-12-31\n    Bioremédiation        :p2, 2024-06-01, 2027-05-31\n    section Instrumentation\n    Capteurs HP           :p3, 2023-03-01, 2025-08-31\n    Observatoires Profonds :p4, 2025-01-01, 2028-12-31"
   },
   {
-    "objectID": "portfolio/projects/instrumentation-hp/index.html",
-    "href": "portfolio/projects/instrumentation-hp/index.html",
-    "title": "Capteur Haute Pression v2",
+    "objectID": "portfolio/projects/HOTDOG/index.html",
+    "href": "portfolio/projects/HOTDOG/index.html",
+    "title": "HOTDOG",
     "section": "",
-    "text": "Ce projet visait à miniaturiser l’électronique de contrôle pour une intégration sur des flotteurs autonomes.\n\nMéthodologie\n\nUtilisation de Peek pour le corps du capteur.\nTests en chambre hyperbare.\n\n\n\nRésultats\nNavigation réussie à 4500m de profondeur sans dérive du signal."
+    "text": "HOTDOG (ANR, 2023-2027) : L’objectif du projet HOT DOG concerne l’acquisition de connaissances fondamentales sur la biodiversité procaryotique et la dynamique des écosystèmes hydrothermaux. Ceci sera réalisé grâce à des approches couplées sur site et au laboratoire impliquant la microbiologie haute pression, l’échantillonnage environnemental, l’instrumentation miniaturisée pressurisée à criblage rapide, des outils transparents avancés pour la caractérisation in situ, des plateformes de bioréacteurs et la modélisation numérique.\n\n\nMéthodologie\n\nBouteille haute pression\nCulture monospécifique\nTube saphir haute pression\nCroissance vs production de methane\n\n\n\nRésultats\nEn cours d’aquistion"
+  },
+  {
+    "objectID": "portfolio/projects/APERO/index.html",
+    "href": "portfolio/projects/APERO/index.html",
+    "title": "APERO",
+    "section": "",
+    "text": "APERO(ANR, 2022-2026): APERO proposes to take a new step towards the mechanistic understanding of the Biological Carbon Pump, from organic carbon production at the ocean surface, to its export and remineralization in the water column,focusing on the dark ocean. It is mostly based on a multi-disciplinary cruise in the NE Atlantic Ocean, with twovessels, which took place in June/July 2023.\n\nMéthodologie\n\nHigh Pressure Sampler Unit\nSimulation Sinking Particle\nSediment trap\nActivité métaboliques microbienne\n\n\n\nRésultats"
   },
   {
     "objectID": "blog/index.html",
@@ -60,7 +67,7 @@
     "href": "index.html",
     "title": "Marc Garel (PhD)",
     "section": "",
-    "text": "Bienvenue sur mon site personnel. Je suis Marc Garel, ingénieur de recherche au CNRS spécialisé en instrumentation et océanographie microbienne. Mon travail se concentre sur l’étude des processus microbiens dans les environnements marins, en utilisant des technologies avancées pour comprendre les cycles biogéochimiques et les interactions microbiennes.\n\nDomaines d’expertise\n\nOcéanographie Microbienne : Étude des cycles biogéochimiques / étude de processus mirobiens.\nInstrumentation : Technologie Haute pression / simulation de conditions environnemetales.\nBioinformatique : Analyse métabarcofing des écosystèmes marins.\n\nN’hésitez pas à explorer mes travaux de recherche ou à lire mes derniers articles sur le blog."
+    "text": "Bienvenue sur mon site personnel. Je suis Marc Garel, ingénieur de recherche au CNRS spécialisé en instrumentation et écologie microbienne. Mon travail se concentre sur l’étude des processus microbiens dans les environnements marins et sources hydrotermales terrestres, en utilisant des technologies avancées pour comprendre les cycles biogéochimiques et les interactions microbiennes et leur biodiversitté.\n\nDomaines d’expertise\n\nEcologie Microbienne : Diversité microbienne, analyse moléculaire et activités métaboliques\nInstrumentation : Technologie Haute pression / simulation de conditions environnemetales.\nTravail de terrain : Campagne océanographique (&gt; 250jrs) ; source hydrothermale tunisienne\nBioinformatique : Analyse métabarcofing des écosystèmes marins.\nManagement de projets : voir Portolio\n\nN’hésitez pas à explorer mes travaux de recherche ou à lire mes derniers articles sur le blog."
   },
   {
     "objectID": "blog/posts/2026-04-19-expedition-oceanographique/index.html",
@@ -98,10 +105,17 @@
     "text": "Modifiez le fichier publications/index.qmd pour ajouter l’entrée dans le listing YAML.\nAjoutez également l’entrée dans publications/references.bib pour permettre l’export par les pairs."
   },
   {
+    "objectID": "portfolio/projects/instrumentation-hp/index.html",
+    "href": "portfolio/projects/instrumentation-hp/index.html",
+    "title": "Capteur Haute Pression v2",
+    "section": "",
+    "text": "Ce projet visait à miniaturiser l’électronique de contrôle pour une intégration sur des flotteurs autonomes.\n\nMéthodologie\n\nUtilisation de Peek pour le corps du capteur.\nTests en chambre hyperbare.\n\n\n\nRésultats\nNavigation réussie à 4500m de profondeur sans dérive du signal."
+  },
+  {
     "objectID": "portfolio/index.html",
     "href": "portfolio/index.html",
     "title": "Mon Portfolio",
     "section": "",
-    "text": "Aperçu de mes projets récents en instrumentation, bioinformatique et recherche de terrain.\n\n\n\n\n\n\n\n\n\n\n\n\nCapteur Haute Pression v2\n\n\n\ninstrumentation\n\ningénierie\n\n\n\nConception d’un capteur de pH résistant à 600 bars.\n\n\n\n\n\n\nDec 1, 2025\n\n\n\n\n\n\nNo matching items"
+    "text": "Aperçu de mes projets récents en instrumentation, bioinformatique et recherche de terrain.\n\n\n\n\n\n\n\n\n\n\n\n\nCapteur Haute Pression v2\n\n\n\ninstrumentation\n\ningénierie\n\n\n\nConception d’un capteur de pH résistant à 600 bars.\n\n\n\n\n\n\nDec 1, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nAPERO\n\n\n\ninstrumentation\n\ningénierie\n\nadaptation\n\ncruise\n\n\n\nAssessing marine biogenic matter Production, Export and Remineralization: from the surface to the dark Ocean – APERO\n\n\n\n\n\n\nJan 2, 2023\n\n\n\n\n\n\n\n\n\n\n\nHOTDOG\n\n\n\ninstrumentation\n\ningénierie\n\nadaptation\n\n\n\nConception d’un capteur de pH résistant à 600 bars.\n\n\n\n\n\n\nJan 2, 2023\n\n\n\n\n\n\nNo matching items"
   }
 ]
