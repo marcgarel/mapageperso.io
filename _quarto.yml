@@ -17,7 +17,7 @@ website:
         text: Publications
     right:
       - icon: github
-        href: https://github.com/ 
+        href: https://github.com/marcgarel/mapagepeso
       - icon: oricid
         href: https://orcid.org/0000-0002-4374-5905
       - icon: envelope

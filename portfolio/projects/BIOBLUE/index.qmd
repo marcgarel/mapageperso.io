@@ -1,0 +1,22 @@
+---
+title: "BIOBLUE"
+description: "Production of energy carriers by extremophilic bioelectrochemistry: from bioenergy to the blue economy."
+date: "2024-01-02"
+categories: [microbiologie, biodiversité, ingénierie]
+image: "images/avatar.jpg"
+---
+
+L'hydrogène est identifié comme un vecteur énergétique clé pour remplacer les combustibles fossiles, à condition que sa production soit elle-même décarbonée. La voie microbiologique — utilisant des micro-organismes et de la biomasse — offre cette possibilité via le biohydrogène.
+
+Le projet se concentre sur le couplage de deux approches jugées particulièrement prometteuses : la **fermentation obscure** (dark fermentation) et l'**électrolyse microbienne** (bio-électrochimie). Ces procédés seront explorés dans des conditions extrêmes : thermophilie, halophilie, acidophilie et haute pression.
+
+L'objectif est de fournir des bases techniques pour une production de biohydrogène applicable à l'échelle domestique ou industrielle. Le projet s'inscrit dans une collaboration franco-tunisienne (LMI BIOTEC H2) entre l'ISSBAT (Université de Tunis El Manar) et le MIO (Aix-Marseille Université), et inclut des volets de formation en bioinformatique et bioprocédés.
+
+### Méthodologie
+
+-   Utilisation de Peek pour le corps du capteur.
+-   Tests en chambre hyperbare.
+
+### Résultats
+
+Navigation réussie à 4500m de profondeur sans dérive du signal.
