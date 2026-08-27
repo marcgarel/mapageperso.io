@@ -63,46 +63,11 @@
     "text": "Modifiez le fichier publications/index.qmd pour ajouter l’entrée dans le listing YAML.\nAjoutez également l’entrée dans publications/references.bib pour permettre l’export par les pairs."
   },
   {
-    "objectID": "blog/posts/2026-04-19-expedition-oceanographique/index.html",
-    "href": "blog/posts/2026-04-19-expedition-oceanographique/index.html",
-    "title": "Retour d’expédition : Les fosses du Pacifique",
-    "section": "",
-    "text": "De retour de trois semaines en mer à bord du Pourquoi Pas ?. Nous avons récolté des échantillons de sédiments à plus de 5000m de profondeur.\nLes premières analyses révèlent une diversité microbienne insoupçonnée…"
-  },
-  {
-    "objectID": "blog/posts/2026-06-19-forum-HP/index.html",
-    "href": "blog/posts/2026-06-19-forum-HP/index.html",
-    "title": "Participation au forum HP",
-    "section": "",
-    "text": "Aujourd’hui, je présentais mon talk sur la compensation de pression lors du 15eme #ForumHP organisé par Réseau de Technologie des Hautes Pressions (RHP) – CNRS .\nC’est un travail réalisé en collaboration avec ICMCB (Samuel MARRE et Anaïs Cario ) et la #DTINSU\nEncore merci au COPIL pour cette opportunité.\n\nCNRS , Mediterranean Institute of Oceanography MIO"
-  },
-  {
-    "objectID": "blog/posts/2026-07-27-article-molecular-microbiology/index.html",
-    "href": "blog/posts/2026-07-27-article-molecular-microbiology/index.html",
-    "title": "Publicatio dans Molecular Microbiology",
-    "section": "",
-    "text": "The second article from Capucine LE CAM LIGIER is now out https://lnkd.in/ebeS8-yC. This a team work with Gwenola SIMON, #CorinneVallette Charlotte Berthelier Elisa Lefeuvre. Don’t hesitate to read it. Laurie Casalot and me are very proud. This a big second part of her phD thesis\nMediterranean Institute of Oceanography MIO IRD CNRS Aix-Marseille Université Station Biologique de Roscoff\nhttps://onlinelibrary.wiley.com/doi/10.1111/mmi.70104"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Marc Garel (PhD)",
-    "section": "",
-    "text": "Bienvenue sur mon site personnel. Je suis Marc Garel, ingénieur de recherche au CNRS spécialisé en instrumentation et écologie microbienne. Mon travail se concentre sur l’étude des processus microbiens dans les environnements marins (zone mésopélagique et bathypélagique) et les sources hydrotermales terrestres, en utilisant des technologies avancées pour comprendre les cycles biogéochimiques et les interactions microbiennes et leur biodiversitté.\n\nDomaines d’expertise\n\nEcologie Microbienne : Diversité microbienne, analyse moléculaire et activités métaboliques\nInstrumentation : Technologie Haute pression / simulation de conditions environnemetales.\nTravail de terrain : Campagne océanographique (&gt; 250jrs) ; source hydrothermale tunisienne\nBioinformatique : Analyse métabarcofing des écosystèmes marins.\nManagement de projets : voir Portolio\n\nN’hésitez pas à explorer mes travaux de recherche ou à lire mes derniers articles sur le blog."
-  },
-  {
-    "objectID": "publications/index.html",
-    "href": "publications/index.html",
-    "title": "Publications",
-    "section": "",
-    "text": "Retrouvez ci-dessous quelques une de mes publications scientifiques. Vous pouvez également télécharger mon fichier BibTeX dans lequel vous retouverez l’ensemble de mes publications.\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Titre\n      \n      \n        Auteurs\n      \n      \n        Année\n      \n      \n        Revue\n      \n      \n        Type\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nAnnée\n\n\n\nTitre\n\n\n\nAuteurs\n\n\n\nRevue\n\n\n\nType\n\n\n\n\n\n\n\n\n2026\n\n\nBacterial Composition of the Microbiome of Mesopelagic Fishes from the Northeast Atlantic\n\n\nLe Cam Ligier, Capucine and Garel, Marc and Thibault, Hélène and Guasco, Sophie and Tamburini, Christian and Ménard, Frédéric and Cherel, Yves and Casalot, Laurie and Martini, Séverine}\n\n\nBMC Biology\n\n\nArticle\n\n\n\n\n\n\n2021\n\n\nContrasting Degradation Rates of Natural Dissolved Organic Carbon by Deep-Sea Prokaryotes under Stratified Water Masses and Deep-Water Convection Conditions in the NW Mediterranean Sea\n\n\nGarel, Marc and Panagiotopoulos, Christos and Boutrif, Mehdi and Repeta, Daniel and Sempéré, Richard and Santinelli, Chiara and Charrière, Bruno and Nerini, David and Poggiale, Jean-Christophe and Tamburini, Christian,\n\n\nMarine Chemistry\n\n\nArticle\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "blog/posts/2026-02-23-OSM_2026/index.html",
-    "href": "blog/posts/2026-02-23-OSM_2026/index.html",
+    "objectID": "blog/posts/2026-01-08-APERO-publication/index.html",
+    "href": "blog/posts/2026-01-08-APERO-publication/index.html",
     "title": "Particpation à l’OSM 2026",
     "section": "",
-    "text": "Yesterday, I presented my poster about a review on pressure compensation for deep see sampling in #OSM2026 international congress at Glasgow #APERO, #HOTDOG, CNRS , ICMCB, #CNRSTerre_et_Univers"
+    "text": "Parution dans Nature Geoscience de notre dernier article au sujet de l’ANR #APERO.\nCette article a été écrit par P. Le Coq, étudiante de thèse au laboratoire.\nhttps://www-nature-com.insu.bib.cnrs.fr/articles/s41561-025-01888-w\nhttps://communities.springernature.com/posts/distinct-contributions-of-suspended-and-sinking-prokaryotes-to-mesopelagic-carbon-budget"
   },
   {
     "objectID": "blog/posts/2026-07-13-article-BCM-Biology/index.html",
@@ -112,18 +77,46 @@
     "text": "I am very proud to announce the publication of the first article by Capucine LE CAM LIGIER the doctoral student we are supervising together with Laurie Casalot. Very nice Job!!! #ANR_APERO CNRS ANR (Agence nationale de la recherche) https://lnkd.in/eTkcMdUu\nhttps://link.springer.com/article/10.1186/s12915-026-02677-6"
   },
   {
-    "objectID": "blog/posts/2026-01-08-APERO-publication/index.html",
-    "href": "blog/posts/2026-01-08-APERO-publication/index.html",
+    "objectID": "blog/posts/2026-02-23-OSM_2026/index.html",
+    "href": "blog/posts/2026-02-23-OSM_2026/index.html",
     "title": "Particpation à l’OSM 2026",
     "section": "",
-    "text": "Parution dans Nature Geoscience de notre dernier article au sujet de l’ANR #APERO.\nCette article a été écrit par P. Le Coq, étudiante de thèse au laboratoire.\nhttps://www-nature-com.insu.bib.cnrs.fr/articles/s41561-025-01888-w\nhttps://communities.springernature.com/posts/distinct-contributions-of-suspended-and-sinking-prokaryotes-to-mesopelagic-carbon-budget"
+    "text": "Yesterday, I presented my poster about a review on pressure compensation for deep see sampling in #OSM2026 international congress at Glasgow #APERO, #HOTDOG, CNRS , ICMCB, #CNRSTerre_et_Univers"
+  },
+  {
+    "objectID": "publications/index.html",
+    "href": "publications/index.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Retrouvez ci-dessous quelques une de mes publications scientifiques. Vous pouvez également télécharger mon fichier BibTeX dans lequel vous retouverez l’ensemble de mes publications.\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Titre\n      \n      \n        Auteurs\n      \n      \n        Année\n      \n      \n        Revue\n      \n      \n        Type\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nAnnée\n\n\n\nTitre\n\n\n\nAuteurs\n\n\n\nRevue\n\n\n\nType\n\n\n\n\n\n\n\n\n2026\n\n\nBacterial Composition of the Microbiome of Mesopelagic Fishes from the Northeast Atlantic\n\n\nLe Cam Ligier, Capucine and Garel, Marc and Thibault, Hélène and Guasco, Sophie and Tamburini, Christian and Ménard, Frédéric and Cherel, Yves and Casalot, Laurie and Martini, Séverine}\n\n\nBMC Biology\n\n\nArticle\n\n\n\n\n\n\n2021\n\n\nContrasting Degradation Rates of Natural Dissolved Organic Carbon by Deep-Sea Prokaryotes under Stratified Water Masses and Deep-Water Convection Conditions in the NW Mediterranean Sea\n\n\nGarel, Marc and Panagiotopoulos, Christos and Boutrif, Mehdi and Repeta, Daniel and Sempéré, Richard and Santinelli, Chiara and Charrière, Bruno and Nerini, David and Poggiale, Jean-Christophe and Tamburini, Christian,\n\n\nMarine Chemistry\n\n\nArticle\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Marc Garel (PhD)",
+    "section": "",
+    "text": "Bienvenue sur mon site personnel. Je suis Marc Garel, ingénieur de recherche au CNRS spécialisé en instrumentation et écologie microbienne. Mon travail se concentre sur l’étude des processus microbiens dans les environnements marins (zone mésopélagique et bathypélagique) et les sources hydrotermales terrestres, en utilisant des technologies avancées pour comprendre les cycles biogéochimiques et les interactions microbiennes et leur biodiversitté.\n\nDomaines d’expertise\n\nEcologie Microbienne : Diversité microbienne, analyse moléculaire et activités métaboliques\nInstrumentation : Technologie Haute pression / simulation de conditions environnemetales.\nTravail de terrain : Campagne océanographique (&gt; 250jrs) ; source hydrothermale tunisienne\nBioinformatique : Analyse métabarcofing des écosystèmes marins.\nManagement de projets : voir Portolio\n\nN’hésitez pas à explorer mes travaux de recherche ou à lire mes derniers articles sur le blog."
+  },
+  {
+    "objectID": "blog/posts/2026-07-27-article-molecular-microbiology/index.html",
+    "href": "blog/posts/2026-07-27-article-molecular-microbiology/index.html",
+    "title": "Publicatio dans Molecular Microbiology",
+    "section": "",
+    "text": "The second article from Capucine LE CAM LIGIER is now out https://lnkd.in/ebeS8-yC. This a team work with Gwenola SIMON, #CorinneVallette Charlotte Berthelier Elisa Lefeuvre. Don’t hesitate to read it. Laurie Casalot and me are very proud. This a big second part of her phD thesis\nMediterranean Institute of Oceanography MIO IRD CNRS Aix-Marseille Université Station Biologique de Roscoff\nhttps://onlinelibrary.wiley.com/doi/10.1111/mmi.70104"
+  },
+  {
+    "objectID": "blog/posts/2026-06-19-forum-HP/index.html",
+    "href": "blog/posts/2026-06-19-forum-HP/index.html",
+    "title": "Participation au forum HP",
+    "section": "",
+    "text": "Aujourd’hui, je présentais mon talk sur la compensation de pression lors du 15eme #ForumHP organisé par Réseau de Technologie des Hautes Pressions (RHP) – CNRS .\nC’est un travail réalisé en collaboration avec ICMCB (Samuel MARRE et Anaïs Cario ) et la #DTINSU\nEncore merci au COPIL pour cette opportunité.\n\nCNRS , Mediterranean Institute of Oceanography MIO"
   },
   {
     "objectID": "blog/index.html",
     "href": "blog/index.html",
     "title": "Blog & Veille Scientifique",
     "section": "",
-    "text": "Publicatio dans Molecular Microbiology\n\n\n\nCongress\n\n\n\n\n\n\n\n\n\nJul 27, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nPublication arcicle dans BCM Biology\n\n\n\nocéanographie\n\nexpédition\n\narticle\n\n\n\n\n\n\n\n\n\nJul 13, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nParticipation au forum HP\n\n\n\nCongress\n\n\n\n\n\n\n\n\n\nJun 19, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nRetour d’expédition : Les fosses du Pacifique\n\n\n\nocéanographie\n\nexpédition\n\n\n\n\n\n\n\n\n\nApr 19, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nParticpation à l’OSM 2026\n\n\n\nCongress\n\n\n\n\n\n\n\n\n\nFeb 23, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nParticpation à l’OSM 2026\n\n\n\nPublication\n\n\n\n\n\n\n\n\n\nJan 8, 2026\n\n\n\n\n\nNo matching items"
+    "text": "Publicatio dans Molecular Microbiology\n\n\n\nCongress\n\n\n\n\n\n\n\n\n\nJul 27, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nPublication arcicle dans BCM Biology\n\n\n\nocéanographie\n\nexpédition\n\narticle\n\n\n\n\n\n\n\n\n\nJul 13, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nParticipation au forum HP\n\n\n\nCongress\n\n\n\n\n\n\n\n\n\nJun 19, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nParticpation à l’OSM 2026\n\n\n\nCongress\n\n\n\n\n\n\n\n\n\nFeb 23, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nParticpation à l’OSM 2026\n\n\n\nPublication\n\n\n\n\n\n\n\n\n\nJan 8, 2026\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "portfolio/projects/APERO/index.html",
