@@ -1,22 +1,25 @@
 [
   {
+    "listing": "/publications/index.html",
+    "items": []
+  },
+  {
     "listing": "/blog/index.html",
     "items": [
-      "/blog/posts/2026-04-19-expedition-oceanographique/index.html",
+      "/blog/posts/2026-07-27-article-molecular-microbiology/index.html",
+      "/blog/posts/2026-07-13-article-BCM-Biology/index.html",
+      "/blog/posts/2026-06-19-forum-HP/index.html",
       "/blog/posts/2026-02-23-OSM_2026/index.html",
       "/blog/posts/2026-01-08-APERO-publication/index.html"
     ]
-  },
-  {
-    "listing": "/publications/index.html",
-    "items": []
   },
   {
     "listing": "/portfolio/index.html",
     "items": [
       "/portfolio/projects/BIOBLUE/index.html",
       "/portfolio/projects/APERO/index.html",
-      "/portfolio/projects/HOTDOG/index.html"
+      "/portfolio/projects/HOTDOG/index.html",
+      "/portfolio/projects/OCEAN_ICU/index.html"
     ]
   }
 ]

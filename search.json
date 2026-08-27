@@ -4,28 +4,21 @@
     "href": "recherche.html",
     "title": "Mes Recherches",
     "section": "",
-    "text": "Ma recherche se concentre sur l’interface entre la microbiologie marine et l’ingénierie environnementale. J’étudie comment les microorganismes s’adaptent aux environnements extrêmes à différentes écahelles."
+    "text": "Ma recherche se concentrent sur l’interface entre la microbiologie marine et l’ingénierie environnementale. J’étudie comment les microorganismes s’adaptent aux environnements extrêmes (i.e pression hydrosstatique) à différentes écahelles."
   },
   {
     "objectID": "recherche.html#axes-de-recherche",
     "href": "recherche.html#axes-de-recherche",
     "title": "Mes Recherches",
     "section": "Axes de Recherche",
-    "text": "Axes de Recherche\n\n1. Adaptation aux Hautes Pressions (Piezophilie)\nÉtude des mécanismes d’adaptation des microorganismes aux environnements à haute pression, notamment dans les zones bathypélagiques.- Outils : culture en laboratoire à haute pression, bioréacteurs HP/HT, bioréacteurs en saphir, respiration microbienne.\n\n\n2. Instrumentation Océanographique\nDéveloppement de nouveaux capteurs in situ pour la surveillance biogéochimique des océans.\n\n\n3. Diversité des microorganismes extrêmophile\nEtude a de la diversité des microorganismes issus des zones méso- et bathypélagique. Par ailleurs, j’étudie la biodiversité des microorganismes thermophile provenant des sources hydrothermales.- Outils : métabarcoding (16S rRNA shortreads et longreads), culture en laboratoire, imagerie microscopique."
+    "text": "Axes de Recherche\n\n1. Adaptation aux Hautes Pressions (Piezophilie)\nÉtude des mécanismes d’adaptation des microorganismes aux environnements à haute pression, notamment dans les zones bathypélagiques.- Outils : culture en laboratoire à haute pression, bioréacteurs HP/HT, bioréacteurs en saphir, respiration microbienne.\n\n\n2. Instrumentation Océanographique\nDéveloppement d’instruements pour la collecte et la mesure d’activités métabolique dans les conditions in situ de pression et température.\n\n\n3. Diversité des microorganismes extrêmophile\nEtude a de la diversité des microorganismes issus des zones méso- et bathypélagique. Par ailleurs, j’étudie la biodiversité des microorganismes thermophile provenant des sources hydrothermales.- Outils : métabarcoding (16S rRNA shortreads et longreads), culture en laboratoire, imagerie microscopique."
   },
   {
     "objectID": "recherche.html#collaborations-financées",
     "href": "recherche.html#collaborations-financées",
     "title": "Mes Recherches",
     "section": "Collaborations Financées",
-    "text": "Collaborations Financées\n\nHOTDOG (ANR, 2023-2027) ; APERO(ANR, 2022-2026) ; BIOBLUE (AMIDEX, 2025-2027)\nOCEAN ICU( European project, 2022-2027) : OceanICU is a Horizon Europe project aiming to produce new data, information and understanding on the role of the Ocean in the global carbon cycle.\nIIT (CNRS, 2025-2026) PI : Développement instrumentales\nANF MetaBiodiv (CNRS, 2022-2026) : Exploration de la Diversité Taxonomique des Ecosystèmes par Metabarcoding Caractériser la biodiversité environnementale afin d’étudier l’impact du changement global sur les milieux et de l’anthropisation de la planète. Ces enjeux nécessitent l’acquisition de connaissances sur la biodiversité pour répondre aux grands défis planétaires (e.g. modéliser, anticiper, prévenir les catastrophes écologiques), aux objectifs de développement durable, et contribuer aux grandes transitions de la société dans un contexte de changement climatique."
-  },
-  {
-    "objectID": "recherche.html#timeline-des-projets",
-    "href": "recherche.html#timeline-des-projets",
-    "title": "Mes Recherches",
-    "section": "Timeline des Projets",
-    "text": "Timeline des Projets\n\n\n\n\n\ngantt\n    title Chronologie des projets de recherche\n    dateFormat  YYYY-MM-DD\n    section Recherche\n    Piezophilie           :active, p1, 2023-01-01, 2026-12-31\n    Bioremédiation        :p2, 2024-06-01, 2027-05-31\n    section Instrumentation\n    Capteurs HP           :p3, 2023-03-01, 2025-08-31\n    Observatoires Profonds :p4, 2025-01-01, 2028-12-31"
+    "text": "Collaborations Financées\n\nHOTDOG (ANR, 2023-2027) ; APERO(ANR, 2022-2026) ; BIOBLUE (AMIDEX, 2025-2027)\nOCEAN ICU( European project, 2022-2027) : OceanICU is a Horizon Europe project aiming to produce new data, information and understanding on the role of the Ocean in the global carbon cycle.\nIIT (CNRS, 2025-2026) PI : Développement instrumentales pour la collecte et la mesure d’activités métabolique dans les conditions in situ de pression et température. Ce projet est cofinancé par ICMCB et le défi MIO.\nANF MetaBiodiv (CNRS-INSU, 2022-2026) : Exploration de la Diversité Taxonomique des Ecosystèmes par Metabarcoding Caractériser la biodiversité environnementale afin d’étudier l’impact du changement global sur les milieux et de l’anthropisation de la planète. Ces enjeux nécessitent l’acquisition de connaissances sur la biodiversité pour répondre aux grands défis planétaires (e.g. modéliser, anticiper, prévenir les catastrophes écologiques), aux objectifs de développement durable, et contribuer aux grandes transitions de la société dans un contexte de changement climatique."
   },
   {
     "objectID": "portfolio/projects/BIOBLUE/index.html",
@@ -35,53 +28,11 @@
     "text": "L’hydrogène est identifié comme un vecteur énergétique clé pour remplacer les combustibles fossiles, à condition que sa production soit elle-même décarbonée. La voie microbiologique — utilisant des micro-organismes et de la biomasse — offre cette possibilité via le biohydrogène.\nLe projet se concentre sur le couplage de deux approches jugées particulièrement prometteuses : la fermentation obscure (dark fermentation) et l’électrolyse microbienne (bio-électrochimie). Ces procédés seront explorés dans des conditions extrêmes : thermophilie, halophilie, acidophilie et haute pression.\nL’objectif est de fournir des bases techniques pour une production de biohydrogène applicable à l’échelle domestique ou industrielle. Le projet s’inscrit dans une collaboration franco-tunisienne (LMI BIOTEC H2) entre l’ISSBAT (Université de Tunis El Manar) et le MIO (Aix-Marseille Université), et inclut des volets de formation en bioinformatique et bioprocédés.\n\nMéthodologie\n\nUtilisation de Peek pour le corps du capteur.\nTests en chambre hyperbare.\n\n\n\nRésultats\nNavigation réussie à 4500m de profondeur sans dérive du signal."
   },
   {
-    "objectID": "portfolio/projects/APERO/index.html",
-    "href": "portfolio/projects/APERO/index.html",
-    "title": "APERO",
+    "objectID": "portfolio/projects/HOTDOG/index.html",
+    "href": "portfolio/projects/HOTDOG/index.html",
+    "title": "HOTDOG",
     "section": "",
-    "text": "APERO(ANR, 2022-2026): APERO proposes to take a new step towards the mechanistic understanding of the Biological Carbon Pump, from organic carbon production at the ocean surface, to its export and remineralization in the water column,focusing on the dark ocean. It is mostly based on a multi-disciplinary cruise in the NE Atlantic Ocean, with twovessels, which took place in June/July 2023.\n\nMéthodologie\n\nHigh Pressure Sampler Unit\nSimulation Sinking Particle\nSediment trap\nActivité métaboliques microbienne\n\n\n\nRésultats"
-  },
-  {
-    "objectID": "blog/index.html",
-    "href": "blog/index.html",
-    "title": "Blog & Veille Scientifique",
-    "section": "",
-    "text": "Retour d’expédition : Les fosses du Pacifique\n\n\n\nocéanographie\n\nexpédition\n\n\n\n\n\n\n\n\n\nApr 19, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nParticpation à l’OSM 2026\n\n\n\nCongress\n\n\n\n\n\n\n\n\n\nFeb 23, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nParticpation à l’OSM 2026\n\n\n\nPublication\n\n\n\n\n\n\n\n\n\nJan 8, 2026\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "blog/posts/2026-01-08-APERO-publication/index.html",
-    "href": "blog/posts/2026-01-08-APERO-publication/index.html",
-    "title": "Particpation à l’OSM 2026",
-    "section": "",
-    "text": "Parution dans Nature Geoscience de notre dernier article au sujet de l’ANR #APERO.\nCette article a été écrit par P. Le Coq, étudiante de thèse au laboratoire.\nhttps://www-nature-com.insu.bib.cnrs.fr/articles/s41561-025-01888-w\nhttps://communities.springernature.com/posts/distinct-contributions-of-suspended-and-sinking-prokaryotes-to-mesopelagic-carbon-budget"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Marc Garel (PhD)",
-    "section": "",
-    "text": "Bienvenue sur mon site personnel. Je suis Marc Garel, ingénieur de recherche au CNRS spécialisé en instrumentation et écologie microbienne. Mon travail se concentre sur l’étude des processus microbiens dans les environnements marins et sources hydrotermales terrestres, en utilisant des technologies avancées pour comprendre les cycles biogéochimiques et les interactions microbiennes et leur biodiversitté.\n\nDomaines d’expertise\n\nEcologie Microbienne : Diversité microbienne, analyse moléculaire et activités métaboliques\nInstrumentation : Technologie Haute pression / simulation de conditions environnemetales.\nTravail de terrain : Campagne océanographique (&gt; 250jrs) ; source hydrothermale tunisienne\nBioinformatique : Analyse métabarcofing des écosystèmes marins.\nManagement de projets : voir Portolio\n\nN’hésitez pas à explorer mes travaux de recherche ou à lire mes derniers articles sur le blog."
-  },
-  {
-    "objectID": "publications/index.html",
-    "href": "publications/index.html",
-    "title": "Publications",
-    "section": "",
-    "text": "Retrouvez ci-dessous la liste de mes publications scientifiques. Vous pouvez également télécharger mon fichier BibTeX.\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Titre\n      \n      \n        Auteurs\n      \n      \n        Année\n      \n      \n        Revue\n      \n      \n        Type\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nAnnée\n\n\n\nTitre\n\n\n\nAuteurs\n\n\n\nRevue\n\n\n\nType\n\n\n\n\n\n\n\n\n2024\n\n\nPressure-induced changes in microbial community structure in the Mediterranean Sea\n\n\nGarel, M. et al.\n\n\nDeep Sea Research Part I\n\n\nArticle\n\n\n\n\n\n\n2023\n\n\nNovel PHP sensor for deep-sea exploration\n\n\nSmith, J. & Garel, M.\n\n\nOcean Engineering\n\n\nArticle\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "blog/posts/2026-02-23-OSM_2026/index.html",
-    "href": "blog/posts/2026-02-23-OSM_2026/index.html",
-    "title": "Particpation à l’OSM 2026",
-    "section": "",
-    "text": "Yesterday, I presented my poster about a review on pressure compensation for deep see sampling in #OSM2026 international congress at Glasgow #APERO, #HOTDOG, CNRS , ICMCB, #CNRSTerre_et_Univers"
-  },
-  {
-    "objectID": "blog/posts/2026-04-19-expedition-oceanographique/index.html",
-    "href": "blog/posts/2026-04-19-expedition-oceanographique/index.html",
-    "title": "Retour d’expédition : Les fosses du Pacifique",
-    "section": "",
-    "text": "De retour de trois semaines en mer à bord du Pourquoi Pas ?. Nous avons récolté des échantillons de sédiments à plus de 5000m de profondeur.\nLes premières analyses révèlent une diversité microbienne insoupçonnée…"
+    "text": "HOTDOG (ANR, 2023-2027) : L’objectif du projet HOT DOG concerne l’acquisition de connaissances fondamentales sur la biodiversité procaryotique et la dynamique des écosystèmes hydrothermaux. Ceci sera réalisé grâce à des approches couplées sur site et au laboratoire impliquant la microbiologie haute pression, l’échantillonnage environnemental, l’instrumentation miniaturisée pressurisée à criblage rapide, des outils transparents avancés pour la caractérisation in situ, des plateformes de bioréacteurs et la modélisation numérique.\n\n\nMéthodologie\n\nBouteille haute pression\nCulture monospécifique\nTube saphir haute pression\nCroissance vs production de methane\n\n\n\nRésultats\nEn cours d’aquistion"
   },
   {
     "objectID": "CONTRIBUTING.html",
@@ -112,17 +63,80 @@
     "text": "Modifiez le fichier publications/index.qmd pour ajouter l’entrée dans le listing YAML.\nAjoutez également l’entrée dans publications/references.bib pour permettre l’export par les pairs."
   },
   {
-    "objectID": "portfolio/projects/HOTDOG/index.html",
-    "href": "portfolio/projects/HOTDOG/index.html",
-    "title": "HOTDOG",
+    "objectID": "blog/posts/2026-01-08-APERO-publication/index.html",
+    "href": "blog/posts/2026-01-08-APERO-publication/index.html",
+    "title": "Particpation à l’OSM 2026",
     "section": "",
-    "text": "HOTDOG (ANR, 2023-2027) : L’objectif du projet HOT DOG concerne l’acquisition de connaissances fondamentales sur la biodiversité procaryotique et la dynamique des écosystèmes hydrothermaux. Ceci sera réalisé grâce à des approches couplées sur site et au laboratoire impliquant la microbiologie haute pression, l’échantillonnage environnemental, l’instrumentation miniaturisée pressurisée à criblage rapide, des outils transparents avancés pour la caractérisation in situ, des plateformes de bioréacteurs et la modélisation numérique.\n\n\nMéthodologie\n\nBouteille haute pression\nCulture monospécifique\nTube saphir haute pression\nCroissance vs production de methane\n\n\n\nRésultats\nEn cours d’aquistion"
+    "text": "Parution dans Nature Geoscience de notre dernier article au sujet de l’ANR #APERO.\nCette article a été écrit par P. Le Coq, étudiante de thèse au laboratoire.\nhttps://www-nature-com.insu.bib.cnrs.fr/articles/s41561-025-01888-w\nhttps://communities.springernature.com/posts/distinct-contributions-of-suspended-and-sinking-prokaryotes-to-mesopelagic-carbon-budget"
+  },
+  {
+    "objectID": "blog/posts/2026-07-13-article-BCM-Biology/index.html",
+    "href": "blog/posts/2026-07-13-article-BCM-Biology/index.html",
+    "title": "Publication arcicle dans BCM Biology",
+    "section": "",
+    "text": "I am very proud to announce the publication of the first article by Capucine LE CAM LIGIER the doctoral student we are supervising together with Laurie Casalot. Very nice Job!!! #ANR_APERO CNRS ANR (Agence nationale de la recherche) https://lnkd.in/eTkcMdUu\nhttps://link.springer.com/article/10.1186/s12915-026-02677-6"
+  },
+  {
+    "objectID": "blog/posts/2026-02-23-OSM_2026/index.html",
+    "href": "blog/posts/2026-02-23-OSM_2026/index.html",
+    "title": "Particpation à l’OSM 2026",
+    "section": "",
+    "text": "Yesterday, I presented my poster about a review on pressure compensation for deep see sampling in #OSM2026 international congress at Glasgow #APERO, #HOTDOG, CNRS , ICMCB, #CNRSTerre_et_Univers"
+  },
+  {
+    "objectID": "publications/index.html",
+    "href": "publications/index.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Retrouvez ci-dessous quelques une de mes publications scientifiques. Vous pouvez également télécharger mon fichier BibTeX dans lequel vous retouverez l’ensemble de mes publications.\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Titre\n      \n      \n        Auteurs\n      \n      \n        Année\n      \n      \n        Revue\n      \n      \n        Type\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nAnnée\n\n\n\nTitre\n\n\n\nAuteurs\n\n\n\nRevue\n\n\n\nType\n\n\n\n\n\n\n\n\n2026\n\n\nBacterial Composition of the Microbiome of Mesopelagic Fishes from the Northeast Atlantic\n\n\nLe Cam Ligier, Capucine and Garel, Marc and Thibault, Hélène and Guasco, Sophie and Tamburini, Christian and Ménard, Frédéric and Cherel, Yves and Casalot, Laurie and Martini, Séverine}\n\n\nBMC Biology\n\n\nArticle\n\n\n\n\n\n\n2021\n\n\nContrasting Degradation Rates of Natural Dissolved Organic Carbon by Deep-Sea Prokaryotes under Stratified Water Masses and Deep-Water Convection Conditions in the NW Mediterranean Sea\n\n\nGarel, Marc and Panagiotopoulos, Christos and Boutrif, Mehdi and Repeta, Daniel and Sempéré, Richard and Santinelli, Chiara and Charrière, Bruno and Nerini, David and Poggiale, Jean-Christophe and Tamburini, Christian,\n\n\nMarine Chemistry\n\n\nArticle\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Marc Garel (PhD)",
+    "section": "",
+    "text": "Bienvenue sur mon site personnel. Je suis Marc Garel, ingénieur de recherche au CNRS spécialisé en instrumentation et écologie microbienne. Mon travail se concentre sur l’étude des processus microbiens dans les environnements marins (zone mésopélagique et bathypélagique) et les sources hydrotermales terrestres, en utilisant des technologies avancées pour comprendre les cycles biogéochimiques et les interactions microbiennes et leur biodiversitté.\n\nDomaines d’expertise\n\nEcologie Microbienne : Diversité microbienne, analyse moléculaire et activités métaboliques\nInstrumentation : Technologie Haute pression / simulation de conditions environnemetales.\nTravail de terrain : Campagne océanographique (&gt; 250jrs) ; source hydrothermale tunisienne\nBioinformatique : Analyse métabarcofing des écosystèmes marins.\nManagement de projets : voir Portolio\n\nN’hésitez pas à explorer mes travaux de recherche ou à lire mes derniers articles sur le blog."
+  },
+  {
+    "objectID": "blog/posts/2026-07-27-article-molecular-microbiology/index.html",
+    "href": "blog/posts/2026-07-27-article-molecular-microbiology/index.html",
+    "title": "Publicatio dans Molecular Microbiology",
+    "section": "",
+    "text": "The second article from Capucine LE CAM LIGIER is now out https://lnkd.in/ebeS8-yC. This a team work with Gwenola SIMON, #CorinneVallette Charlotte Berthelier Elisa Lefeuvre. Don’t hesitate to read it. Laurie Casalot and me are very proud. This a big second part of her phD thesis\nMediterranean Institute of Oceanography MIO IRD CNRS Aix-Marseille Université Station Biologique de Roscoff\nhttps://onlinelibrary.wiley.com/doi/10.1111/mmi.70104"
+  },
+  {
+    "objectID": "blog/posts/2026-06-19-forum-HP/index.html",
+    "href": "blog/posts/2026-06-19-forum-HP/index.html",
+    "title": "Participation au forum HP",
+    "section": "",
+    "text": "Aujourd’hui, je présentais mon talk sur la compensation de pression lors du 15eme #ForumHP organisé par Réseau de Technologie des Hautes Pressions (RHP) – CNRS .\nC’est un travail réalisé en collaboration avec ICMCB (Samuel MARRE et Anaïs Cario ) et la #DTINSU\nEncore merci au COPIL pour cette opportunité.\n\nCNRS , Mediterranean Institute of Oceanography MIO"
+  },
+  {
+    "objectID": "blog/index.html",
+    "href": "blog/index.html",
+    "title": "Blog & Veille Scientifique",
+    "section": "",
+    "text": "Publicatio dans Molecular Microbiology\n\n\n\nCongress\n\n\n\n\n\n\n\n\n\nJul 27, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nPublication arcicle dans BCM Biology\n\n\n\nocéanographie\n\nexpédition\n\narticle\n\n\n\n\n\n\n\n\n\nJul 13, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nParticipation au forum HP\n\n\n\nCongress\n\n\n\n\n\n\n\n\n\nJun 19, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nParticpation à l’OSM 2026\n\n\n\nCongress\n\n\n\n\n\n\n\n\n\nFeb 23, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nParticpation à l’OSM 2026\n\n\n\nPublication\n\n\n\n\n\n\n\n\n\nJan 8, 2026\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "portfolio/projects/APERO/index.html",
+    "href": "portfolio/projects/APERO/index.html",
+    "title": "APERO",
+    "section": "",
+    "text": "APERO(ANR, 2022-2026): APERO proposes to take a new step towards the mechanistic understanding of the Biological Carbon Pump, from organic carbon production at the ocean surface, to its export and remineralization in the water column,focusing on the dark ocean. It is mostly based on a multi-disciplinary cruise in the NE Atlantic Ocean, with twovessels, which took place in June/July 2023.\n\nMéthodologie\n\nHigh Pressure Sampler Unit\nSimulation Sinking Particle\nSediment trap\nActivité métaboliques microbienne\n\n\n\nRésultats"
+  },
+  {
+    "objectID": "portfolio/projects/OCEAN_ICU/index.html",
+    "href": "portfolio/projects/OCEAN_ICU/index.html",
+    "title": "OCEAN ICU",
+    "section": "",
+    "text": "Oceab ICU (ANR, 2023-2027) : OceanICU is a five-year project that seeks to gain a new understanding of the biological carbon pump and its processes to provide fundamental knowledge and tools to help policy makers, regulators and Ocean industry—fishing and mining, along with the wider blue economy—manage and understand the impact of their actions on Ocean carbon.\n\n\nNotre implication\nMesure d’activités métaboliques micobienne en condition in situ.\nEstimation de la reminéralisation de matière organique pour le zooplancton durant la migration nycthémérale. Mise en place d’un protcol expérimentale.\n\n\nMéthodologie\n\nBouteille haute pression\nMesure Oxygène dissout\nTube saphir haute pression\n\n\n\nRésultats\nun article méthodologique soumis"
   },
   {
     "objectID": "portfolio/index.html",
     "href": "portfolio/index.html",
     "title": "Mon Portfolio",
     "section": "",
-    "text": "Aperçu de mes projets récents en instrumentation, bioinformatique et recherche de terrain.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBIOBLUE\n\n\n\nmicrobiologie\n\nbiodiversité\n\ningénierie\n\n\n\nProduction of energy carriers by extremophilic bioelectrochemistry: from bioenergy to the blue economy.\n\n\n\n\n\n\nJan 2, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nAPERO\n\n\n\ninstrumentation\n\ningénierie\n\nadaptation\n\ncruise\n\n\n\nAssessing marine biogenic matter Production, Export and Remineralization: from the surface to the dark Ocean – APERO\n\n\n\n\n\n\nJan 2, 2023\n\n\n\n\n\n\n\n\n\n\n\nHOTDOG\n\n\n\ninstrumentation\n\ningénierie\n\nadaptation\n\n\n\nConception d’un capteur de pH résistant à 600 bars.\n\n\n\n\n\n\nJan 2, 2023\n\n\n\n\n\n\nNo matching items"
+    "text": "Aperçu de mes projets récents en instrumentation, bioinformatique et recherche de terrain.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBIOBLUE\n\n\n\nmicrobiologie\n\nbiodiversité\n\ningénierie\n\n\n\nProduction of energy carriers by extremophilic bioelectrochemistry: from bioenergy to the blue economy.\n\n\n\n\n\n\nJan 2, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nAPERO\n\n\n\ninstrumentation\n\ningénierie\n\nadaptation\n\ncruise\n\n\n\nAssessing marine biogenic matter Production, Export and Remineralization: from the surface to the dark Ocean – APERO\n\n\n\n\n\n\nJan 2, 2023\n\n\n\n\n\n\n\n\n\n\n\nHOTDOG\n\n\n\ninstrumentation\n\ningénierie\n\nadaptation\n\n\n\nConception d’un capteur de pH résistant à 600 bars.\n\n\n\n\n\n\nJan 2, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\nOCEAN ICU\n\n\n\ninstrumentation\n\ningénierie\n\n\n\nNew understanding of the biological carbon pump and its processes\n\n\n\n\n\n\nJan 2, 2023\n\n\n\n\n\n\nNo matching items"
   }
 ]
