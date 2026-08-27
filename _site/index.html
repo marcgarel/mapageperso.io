@@ -325,7 +325,7 @@ ul.task-list li input[type="checkbox"] {
 </header><main class="content" id="quarto-document-content">
 
 
-<p>Bienvenue sur mon site personnel. Je suis Marc Garel, ingénieur de recherche au <a href="https://www.cnrs.fr/fr">CNRS</a> spécialisé en instrumentation et écologie microbienne. Mon travail se concentre sur l’étude des processus microbiens dans les environnements marins et sources hydrotermales terrestres, en utilisant des technologies avancées pour comprendre les cycles biogéochimiques et les interactions microbiennes et leur biodiversitté.</p>
+<p>Bienvenue sur mon site personnel. Je suis Marc Garel, ingénieur de recherche au <a href="https://www.cnrs.fr/fr">CNRS</a> spécialisé en instrumentation et écologie microbienne. Mon travail se concentre sur l’étude des processus microbiens dans les environnements marins (zone mésopélagique et bathypélagique) et les sources hydrotermales terrestres, en utilisant des technologies avancées pour comprendre les cycles biogéochimiques et les interactions microbiennes et leur biodiversitté.</p>
 <section id="domaines-dexpertise" class="level3">
 <h3 data-anchor-id="domaines-dexpertise">Domaines d’expertise</h3>
 <ul>
@@ -435,7 +435,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/marcgarel\.github\.io\/mapageperso\.io\/");
+        var filterRegex = new RegExp('/' + window.location.host + '/');
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }

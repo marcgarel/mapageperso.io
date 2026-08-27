@@ -3,17 +3,17 @@ title: "Publications"
 listing:
   id: sample-listings
   contents: 
-    - title: "Pressure-induced changes in microbial community structure in the Mediterranean Sea"
-      author: "Garel, M. et al."
-      year: 2024
-      journal: "Deep Sea Research Part I"
-      doi: "10.1016/j.dsr.2024.104245"
+    - title: "Bacterial Composition of the Microbiome of Mesopelagic Fishes from the Northeast Atlantic"
+      author: "Le Cam Ligier, Capucine and Garel, Marc and Thibault, Hélène and Guasco, Sophie and Tamburini, Christian and Ménard, Frédéric and Cherel, Yves and Casalot, Laurie and Martini, Séverine}"
+      year: 2026
+      journal: "BMC Biology"
+      doi: "10.1186/s12915-026-02677-6"
       type: "Article"
-    - title: "Novel PHP sensor for deep-sea exploration"
+    - title: "Contrasting Degradation Rates of Natural Dissolved Organic Carbon by Deep-Sea Prokaryotes under Stratified Water Masses and Deep-Water Convection Conditions in the NW Mediterranean Sea"
       author: "Smith, J. & Garel, M."
-      year: 2023
-      journal: "Ocean Engineering"
-      doi: "10.1016/j.oceaneng.2023.111222"
+      year: 2021
+      journal: "Marine Chemistry"
+      doi: "10.1016/j.marchem.2021.103932"
       type: "Article"
   type: table
   sort: "year desc"

@@ -1,0 +1,25 @@
+---
+title: "OCEAN ICU"
+description: "New understanding of the biological carbon pump and its processes"
+date: "2023-01-02"
+categories: [instrumentation, ingénierie]
+image: "images/images.png"
+---
+
+-   **Oceab ICU** (ANR, 2023-2027) : OceanICU is a five-year project that seeks to gain a new understanding of the biological carbon pump and its processes to provide fundamental knowledge and tools to help policy makers, regulators and Ocean industry—fishing and mining, along with the wider blue economy—manage and understand the impact of their actions on Ocean carbon.
+
+### Notre implication
+
+Mesure d'activités métaboliques micobienne en condition *in situ.*
+
+Estimation de la reminéralisation de matière organique pour le zooplancton durant la migration nycthémérale. Mise en place d'un protcol expérimentale.
+
+### Méthodologie
+
+-   Bouteille haute pression
+-   Mesure Oxygène dissout
+-   Tube saphir haute pression
+
+### Résultats
+
+un article méthodologique soumis
