@@ -10,7 +10,7 @@ listing:
       doi: "10.1186/s12915-026-02677-6"
       type: "Article"
     - title: "Contrasting Degradation Rates of Natural Dissolved Organic Carbon by Deep-Sea Prokaryotes under Stratified Water Masses and Deep-Water Convection Conditions in the NW Mediterranean Sea"
-      author: "Smith, J. & Garel, M."
+      author: "Garel, Marc and Panagiotopoulos, Christos and Boutrif, Mehdi and Repeta, Daniel and Sempéré, Richard and Santinelli, Chiara and Charrière, Bruno and Nerini, David and Poggiale, Jean-Christophe and Tamburini, Christian,"
       year: 2021
       journal: "Marine Chemistry"
       doi: "10.1016/j.marchem.2021.103932"
@@ -26,7 +26,7 @@ listing:
     type: "Type"
 ---
 
-Retrouvez ci-dessous la liste de mes publications scientifiques. Vous pouvez également télécharger mon fichier [BibTeX](references.bib).
+Retrouvez ci-dessous quelques une de mes publications scientifiques. Vous pouvez également télécharger mon fichier [BibTeX](references.bib) dans lequel vous retouverez l'ensemble de mes publications.
 
 ::: {#sample-listings}
 :::
