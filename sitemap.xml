@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://marcgarel.github.io/mapageperso.io/recherche.html</loc>
-    <lastmod>2026-08-27T10:13:11.986Z</lastmod>
+    <lastmod>2026-09-02T11:52:24.544Z</lastmod>
   </url>
   <url>
     <loc>https://marcgarel.github.io/mapageperso.io/portfolio/projects/BIOBLUE/index.html</loc>
@@ -13,44 +13,48 @@
     <lastmod>2026-04-24T11:35:06.275Z</lastmod>
   </url>
   <url>
-    <loc>https://marcgarel.github.io/mapageperso.io/CONTRIBUTING.html</loc>
-    <lastmod>2026-04-19T14:08:56.073Z</lastmod>
-  </url>
-  <url>
-    <loc>https://marcgarel.github.io/mapageperso.io/blog/posts/2026-01-08-APERO-publication/index.html</loc>
-    <lastmod>2026-04-24T21:20:52.162Z</lastmod>
-  </url>
-  <url>
-    <loc>https://marcgarel.github.io/mapageperso.io/blog/posts/2026-07-13-article-BCM-Biology/index.html</loc>
-    <lastmod>2026-08-10T14:47:26.158Z</lastmod>
-  </url>
-  <url>
-    <loc>https://marcgarel.github.io/mapageperso.io/blog/posts/2026-02-23-OSM_2026/index.html</loc>
-    <lastmod>2026-05-01T12:27:22.214Z</lastmod>
-  </url>
-  <url>
-    <loc>https://marcgarel.github.io/mapageperso.io/publications/index.html</loc>
-    <lastmod>2026-08-27T10:43:40.570Z</lastmod>
-  </url>
-  <url>
-    <loc>https://marcgarel.github.io/mapageperso.io/index.html</loc>
-    <lastmod>2026-08-10T15:27:30.755Z</lastmod>
-  </url>
-  <url>
-    <loc>https://marcgarel.github.io/mapageperso.io/blog/posts/2026-07-27-article-molecular-microbiology/index.html</loc>
-    <lastmod>2026-08-10T15:07:00.087Z</lastmod>
-  </url>
-  <url>
-    <loc>https://marcgarel.github.io/mapageperso.io/blog/posts/2026-06-19-forum-HP/index.html</loc>
-    <lastmod>2026-08-27T10:48:20.154Z</lastmod>
+    <loc>https://marcgarel.github.io/mapageperso.io/portfolio/projects/APERO/index.html</loc>
+    <lastmod>2026-04-24T11:33:10.966Z</lastmod>
   </url>
   <url>
     <loc>https://marcgarel.github.io/mapageperso.io/blog/index.html</loc>
     <lastmod>2026-08-10T14:46:44.119Z</lastmod>
   </url>
   <url>
-    <loc>https://marcgarel.github.io/mapageperso.io/portfolio/projects/APERO/index.html</loc>
-    <lastmod>2026-04-24T11:33:10.966Z</lastmod>
+    <loc>https://marcgarel.github.io/mapageperso.io/blog/posts/2026-06-19-forum-HP/index.html</loc>
+    <lastmod>2026-08-27T10:48:20.154Z</lastmod>
+  </url>
+  <url>
+    <loc>https://marcgarel.github.io/mapageperso.io/blog/posts/2026-07-27-article-molecular-microbiology/index.html</loc>
+    <lastmod>2026-08-10T15:07:00.087Z</lastmod>
+  </url>
+  <url>
+    <loc>https://marcgarel.github.io/mapageperso.io/index.html</loc>
+    <lastmod>2026-09-02T11:47:37.014Z</lastmod>
+  </url>
+  <url>
+    <loc>https://marcgarel.github.io/mapageperso.io/publications/index.html</loc>
+    <lastmod>2026-08-27T10:43:40.570Z</lastmod>
+  </url>
+  <url>
+    <loc>https://marcgarel.github.io/mapageperso.io/blog/posts/2026-02-23-OSM_2026/index.html</loc>
+    <lastmod>2026-05-01T12:27:22.214Z</lastmod>
+  </url>
+  <url>
+    <loc>https://marcgarel.github.io/mapageperso.io/blog/posts/2026-07-13-article-BCM-Biology/index.html</loc>
+    <lastmod>2026-08-10T14:47:26.158Z</lastmod>
+  </url>
+  <url>
+    <loc>https://marcgarel.github.io/mapageperso.io/blog/posts/2026-01-08-APERO-publication/index.html</loc>
+    <lastmod>2026-04-24T21:20:52.162Z</lastmod>
+  </url>
+  <url>
+    <loc>https://marcgarel.github.io/mapageperso.io/CONTRIBUTING.html</loc>
+    <lastmod>2026-04-19T14:08:56.073Z</lastmod>
+  </url>
+  <url>
+    <loc>https://marcgarel.github.io/mapageperso.io/portfolio/projects/ITT/index.html</loc>
+    <lastmod>2026-09-02T11:59:12.077Z</lastmod>
   </url>
   <url>
     <loc>https://marcgarel.github.io/mapageperso.io/portfolio/projects/OCEAN_ICU/index.html</loc>
@@ -58,6 +62,6 @@
   </url>
   <url>
     <loc>https://marcgarel.github.io/mapageperso.io/portfolio/index.html</loc>
-    <lastmod>2026-04-24T11:22:29.079Z</lastmod>
+    <lastmod>2026-08-29T09:44:49.838Z</lastmod>
   </url>
 </urlset>
