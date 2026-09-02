@@ -8,4 +8,4 @@ listing:
   sort: "date desc"
 ---
 
-Aperçu de mes projets récents en instrumentation, bioinformatique et recherche de terrain.
+Aperçu de mes projets récents dans lesquels je suis impliqués.

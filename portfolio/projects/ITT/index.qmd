@@ -1,0 +1,9 @@
+---
+title: "ITT"
+description: "Développement instrumentales pour la collecte d'échantillons profonds en conditions in situ de pression et température."
+date: "2025-01-02"
+categories: [microbiologie, biodiversité, ingénierie]
+
+---
+
+Développement instrumentales pour la collecte et la mesure d'activités métabolique dans les conditions in situ de pression et température. Ce projet d'une durée de 2ans a été cofinancé par l'INSU, ICMCB et le défi MIO. Ce projet est une collaboration entre le MIO, l'ICMCB et la DT INSU.

@@ -1,9 +1,5 @@
 [
   {
-    "listing": "/publications/index.html",
-    "items": []
-  },
-  {
     "listing": "/blog/index.html",
     "items": [
       "/blog/posts/2026-07-27-article-molecular-microbiology/index.html",
@@ -14,8 +10,13 @@
     ]
   },
   {
+    "listing": "/publications/index.html",
+    "items": []
+  },
+  {
     "listing": "/portfolio/index.html",
     "items": [
+      "/portfolio/projects/ITT/index.html",
       "/portfolio/projects/BIOBLUE/index.html",
       "/portfolio/projects/APERO/index.html",
       "/portfolio/projects/HOTDOG/index.html",

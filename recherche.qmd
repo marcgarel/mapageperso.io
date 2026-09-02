@@ -2,23 +2,23 @@
 title: "Mes Recherches"
 ---
 
-Ma recherche se concentrent sur l'interface entre la microbiologie marine et l'ingénierie environnementale. J'étudie comment les microorganismes s'adaptent aux environnements extrêmes (i.e pression hydrosstatique) à différentes écahelles.
+Mes recherches se concentrent sur l'interface entre la microbiologie marine et l'ingénierie environnementale. J'étudie comment les microorganismes s'adaptent aux environnements extrêmes (i.e pression hydrostatique) à différentes écahelles. Cette matrice présente les différentes approches que j'utilise avec des exemples d'application.
 
 ![](images/ma_recherche.png){fig-alt="Illustration de la recherche" fig-align="center" width="80%"}
 
 ## Axes de Recherche
 
-### 1. Adaptation aux Hautes Pressions (Piezophilie)
+### 1. Adaptation aux conditions de haute pression (Piezophilie)
 
-Étude des mécanismes d'adaptation des microorganismes aux environnements à haute pression, notamment dans les zones bathypélagiques.- **Outils** : culture en laboratoire à haute pression, bioréacteurs HP/HT, bioréacteurs en saphir, respiration microbienne.
+Étude de l'effet de la pression hydrostatique des microorganismes aux environnements à haute pression, notamment dans les zones bathypélagiques.- **Outils** : culture en laboratoire à haute pression, bioréacteurs HP/HT, bioréacteurs en saphir, respiration microbienne, mesure de production de biomasse, activtées ectoenzymatiques.
 
 ### 2. Instrumentation Océanographique
 
-Développement d'instruements pour la collecte et la mesure d'activités métabolique dans les conditions in situ de pression et température.
+Développement d'instruments pour la collecte et la mesure d'activités métaboliques dans les conditions in situ de pression et température.
 
 ### 3. Diversité des microorganismes extrêmophile
 
-Etude a de la diversité des microorganismes issus des zones méso- et bathypélagique. Par ailleurs, j'étudie la biodiversité des microorganismes thermophile provenant des sources hydrothermales.- **Outils** : métabarcoding (16S rRNA shortreads et longreads), culture en laboratoire, imagerie microscopique.
+Etude a de la diversité des microorganismes issus des zones méso- et bathypélagique. Par ailleurs, j'étudie la biodiversité des microorganismes thermophiles provenant des sources hydrothermales.- **Outils** : métabarcoding (16S rRNA shortreads et longreads), culture en laboratoire, abondance microbienne (DAPI, FISH, CARD-FISH, microscope à épifluoresence).
 
 ## Collaborations Financées
 
@@ -29,6 +29,3 @@ Etude a de la diversité des microorganismes issus des zones méso- et bathypél
 -   **IIT** (CNRS, 2025-2026) PI : Développement instrumentales pour la collecte et la mesure d'activités métabolique dans les conditions in situ de pression et température. Ce projet est cofinancé par [ICMCB](https://www.icmcb-bordeaux.cnrs.fr/) et le défi [MIO](https://www.mio.osupytheas.fr/fr/).
 
 -   [**ANF MetaBiodiv**](https://anfmetabiodiv.mio.osupytheas.fr/) (CNRS-INSU, 2022-2026) : Exploration de la Diversité Taxonomique des Ecosystèmes par Metabarcoding Caractériser la biodiversité environnementale afin d’étudier l’impact du changement global sur les milieux et de l’anthropisation de la planète. Ces enjeux nécessitent l’acquisition de connaissances sur la biodiversité pour répondre aux grands défis planétaires (e.g. modéliser, anticiper, prévenir les catastrophes écologiques), aux objectifs de développement durable, et contribuer aux grandes transitions de la société dans un contexte de changement climatique.
-
-```         
-```
